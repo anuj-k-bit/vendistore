@@ -1,0 +1,255 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: intellivend
+---
+# ----------------------------------------------------
+# PostgreSQL Database Deployment & Service
+# ----------------------------------------------------
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: postgres-db
+  namespace: intellivend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: postgres-db
+  template:
+    metadata:
+      labels:
+        app: postgres-db
+    spec:
+      containers:
+        - name: postgres
+          image: postgres:15-alpine
+          env:
+            - name: POSTGRES_USER
+              value: "intellivend"
+            - name: POSTGRES_PASSWORD
+              value: "secretpassword"
+            - name: POSTGRES_DB
+              value: "intellivend_db"
+          ports:
+            - containerPort: 5432
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: postgres-service
+  namespace: intellivend
+spec:
+  selector:
+    app: postgres-db
+  ports:
+    - port: 5432
+      targetPort: 5432
+---
+# ----------------------------------------------------
+# Demand Forecasting ML Service Deployment
+# ----------------------------------------------------
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: forecast-service
+  namespace: intellivend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: forecast-service
+  template:
+    metadata:
+      labels:
+        app: forecast-service
+    spec:
+      containers:
+        - name: forecast-service
+          image: intellivend/forecast-service:latest
+          resources:
+            requests:
+              cpu: "250m"
+              memory: "512Mi"
+            limits:
+              cpu: "1000m"
+              memory: "1024Mi"
+          ports:
+            - containerPort: 8082
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: forecast-service
+  namespace: intellivend
+spec:
+  selector:
+    app: forecast-service
+  ports:
+    - port: 8082
+      targetPort: 8082
+---
+# ----------------------------------------------------
+# Computer Vision Slot Detector Service Deployment
+# ----------------------------------------------------
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vision-service
+  namespace: intellivend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: vision-service
+  template:
+    metadata:
+      labels:
+        app: vision-service
+    spec:
+      containers:
+        - name: vision-service
+          image: intellivend/vision-service:latest
+          resources:
+            requests:
+              cpu: "500m"
+              memory: "1024Mi"
+            limits:
+              cpu: "2000m"
+              memory: "2048Mi"
+          ports:
+            - containerPort: 8083
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: vision-service
+  namespace: intellivend
+spec:
+  selector:
+    app: vision-service
+  ports:
+    - port: 8083
+      targetPort: 8083
+---
+# ----------------------------------------------------
+# Dynamic Pricing LinUCB Bandit Service Deployment
+# ----------------------------------------------------
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pricing-service
+  namespace: intellivend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: pricing-service
+  template:
+    metadata:
+      labels:
+        app: pricing-service
+    spec:
+      containers:
+        - name: pricing-service
+          image: intellivend/pricing-service:latest
+          resources:
+            requests:
+              cpu: "250m"
+              memory: "512Mi"
+            limits:
+              cpu: "1000m"
+              memory: "1024Mi"
+          ports:
+            - containerPort: 8084
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pricing-service
+  namespace: intellivend
+spec:
+  selector:
+    app: pricing-service
+  ports:
+    - port: 8084
+      targetPort: 8084
+---
+# ----------------------------------------------------
+# Recommendation Service Deployment
+# ----------------------------------------------------
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: recommendation-service
+  namespace: intellivend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: recommendation-service
+  template:
+    metadata:
+      labels:
+        app: recommendation-service
+    spec:
+      containers:
+        - name: recommendation-service
+          image: intellivend/recommendation-service:latest
+          resources:
+            requests:
+              cpu: "250m"
+              memory: "512Mi"
+            limits:
+              cpu: "1000m"
+              memory: "1024Mi"
+          ports:
+            - containerPort: 8085
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: recommendation-service
+  namespace: intellivend
+spec:
+  selector:
+    app: recommendation-service
+  ports:
+    - port: 8085
+      targetPort: 8085
+---
+# ----------------------------------------------------
+# Agentic Tool Layer Deployment
+# ----------------------------------------------------
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: agentic-layer
+  namespace: intellivend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: agentic-layer
+  template:
+    metadata:
+      labels:
+        app: agentic-layer
+    spec:
+      containers:
+        - name: agentic-layer
+          image: intellivend/agentic-layer:latest
+          ports:
+            - containerPort: 8086
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: agentic-layer
+  namespace: intellivend
+spec:
+  selector:
+    app: agentic-layer
+  ports:
+    - port: 8086
+      targetPort: 8086

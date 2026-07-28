@@ -1,0 +1,102 @@
+version: '3.8'
+
+services:
+  # ----------------------------------------------------
+  # Infrastructure: Database & Message Brokers
+  # ----------------------------------------------------
+  postgres:
+    image: postgres:15-alpine
+    container_name: intellivend-postgres
+    environment:
+      POSTGRES_USER: intellivend
+      POSTGRES_PASSWORD: secretpassword
+      POSTGRES_DB: intellivend_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  mosquitto:
+    image: eclipse-mosquitto:2.0
+    container_name: intellivend-mqtt
+    ports:
+      - "1883:1883"
+
+  # ----------------------------------------------------
+  # Core Microservices
+  # ----------------------------------------------------
+  inventory-service:
+    build: ./backend/inventory-service
+    container_name: intellivend-inventory-service
+    ports:
+      - "8080:8080"
+    environment:
+      DATABASE_URL: postgresql://intellivend:secretpassword@postgres:5432/intellivend_db
+    depends_on:
+      - postgres
+
+  order-service:
+    build: ./backend/order-service
+    container_name: intellivend-order-service
+    ports:
+      - "8081:8081"
+    environment:
+      DATABASE_URL: postgresql://intellivend:secretpassword@postgres:5432/intellivend_db
+    depends_on:
+      - postgres
+
+  # ----------------------------------------------------
+  # Machine Learning Inference Services
+  # ----------------------------------------------------
+  forecast-service:
+    build: ./backend/forecast-service
+    container_name: intellivend-forecast-service
+    ports:
+      - "8082:8082"
+
+  vision-service:
+    build: ./backend/vision-service
+    container_name: intellivend-vision-service
+    ports:
+      - "8083:8083"
+
+  pricing-service:
+    build: ./backend/pricing-service
+    container_name: intellivend-pricing-service
+    ports:
+      - "8084:8084"
+
+  recommendation-service:
+    build: ./backend/recommendation-service
+    container_name: intellivend-recommendation-service
+    ports:
+      - "8085:8085"
+
+  # ----------------------------------------------------
+  # Agentic Guardrails & Tool Layer
+  # ----------------------------------------------------
+  agentic-layer:
+    build: ./backend/agentic-layer
+    container_name: intellivend-agentic-layer
+    ports:
+      - "8086:8086"
+    depends_on:
+      - postgres
+
+  # ----------------------------------------------------
+  # React Web Frontends
+  # ----------------------------------------------------
+  kiosk-ui:
+    build: ./frontend/kiosk
+    container_name: intellivend-kiosk-ui
+    ports:
+      - "3000:3000"
+
+  admin-dashboard:
+    build: ./frontend/admin
+    container_name: intellivend-admin-dashboard
+    ports:
+      - "3001:3001"
+
+volumes:
+  pgdata:

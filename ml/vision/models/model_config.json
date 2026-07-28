@@ -1,0 +1,14 @@
+{
+  "num_classes": 3,
+  "input_size": [
+    128,
+    128
+  ],
+  "fill_level_map": {
+    "0": "EMPTY",
+    "1": "HALF",
+    "2": "FULL"
+  },
+  "training_accuracy": 76.67,
+  "epochs": 10
+}

@@ -1,0 +1,28 @@
+{
+  "num_simulated_sessions": 1000,
+  "strategies": {
+    "static_baseline": {
+      "name": "Static Nominal Pricing (1.00x)",
+      "total_revenue": 2408.0,
+      "conversion_rate_pct": 67.9,
+      "purchases_count": 679
+    },
+    "rule_based": {
+      "name": "Rule-Based Heuristic (\u00b115%)",
+      "total_revenue": 2520.61,
+      "conversion_rate_pct": 69.0,
+      "purchases_count": 690
+    },
+    "linucb_bandit": {
+      "name": "LinUCB Contextual Bandit Dynamic Pricing",
+      "total_revenue": 2420.63,
+      "conversion_rate_pct": 71.7,
+      "purchases_count": 717
+    }
+  },
+  "uplift_summary": {
+    "revenue_uplift_vs_static_pct": 0.52,
+    "revenue_uplift_vs_rule_based_pct": -3.97,
+    "additional_revenue_generated": 12.63
+  }
+}

@@ -1,0 +1,1201 @@
+transaction_id,customer_id,product_id,product_name,category,unit_price,quantity,implicit_rating,timestamp
+TX-00001,CUST-149,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-03-18 21:33:00
+TX-00002,CUST-171,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-02 10:43:00
+TX-00003,CUST-197,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-04 17:07:00
+TX-00004,CUST-156,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-21 21:00:00
+TX-00005,CUST-165,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-23 10:55:00
+TX-00006,CUST-139,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,5.0,2026-03-23 13:09:00
+TX-00007,CUST-198,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-21 07:38:00
+TX-00008,CUST-163,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-03 10:59:00
+TX-00009,CUST-140,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-31 08:15:00
+TX-00010,CUST-111,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-11 22:52:00
+TX-00011,CUST-198,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-10 11:08:00
+TX-00012,CUST-161,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-12 12:16:00
+TX-00013,CUST-178,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-24 13:59:00
+TX-00014,CUST-197,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-30 13:45:00
+TX-00015,CUST-152,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-27 18:28:00
+TX-00016,CUST-158,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-16 14:14:00
+TX-00017,CUST-144,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-01-03 14:37:00
+TX-00018,CUST-101,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-10 08:14:00
+TX-00019,CUST-105,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-12 09:32:00
+TX-00020,CUST-136,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-27 22:13:00
+TX-00021,CUST-117,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-15 22:15:00
+TX-00022,CUST-153,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-25 10:06:00
+TX-00023,CUST-146,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-24 20:29:00
+TX-00024,CUST-107,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-28 10:03:00
+TX-00025,CUST-194,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-13 10:15:00
+TX-00026,CUST-125,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-10 21:08:00
+TX-00027,CUST-124,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-02-05 21:15:00
+TX-00028,CUST-157,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,4.0,2026-03-12 10:03:00
+TX-00029,CUST-112,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-31 12:26:00
+TX-00030,CUST-162,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-28 19:57:00
+TX-00031,CUST-122,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-18 07:24:00
+TX-00032,CUST-159,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-06 20:44:00
+TX-00033,CUST-172,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-26 22:09:00
+TX-00034,CUST-138,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-28 08:37:00
+TX-00035,CUST-170,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,4.0,2026-01-08 17:03:00
+TX-00036,CUST-175,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-03 12:03:00
+TX-00037,CUST-111,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-24 09:38:00
+TX-00038,CUST-187,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-31 19:07:00
+TX-00039,CUST-132,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-16 08:39:00
+TX-00040,CUST-154,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-26 17:59:00
+TX-00041,CUST-127,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-27 17:15:00
+TX-00042,CUST-151,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-17 16:29:00
+TX-00043,CUST-197,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-10 07:29:00
+TX-00044,CUST-173,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-13 09:34:00
+TX-00045,CUST-165,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-03 11:59:00
+TX-00046,CUST-109,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-01 18:18:00
+TX-00047,CUST-157,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-11 16:39:00
+TX-00048,CUST-168,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-02 16:59:00
+TX-00049,CUST-114,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-18 15:07:00
+TX-00050,CUST-196,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-12 11:17:00
+TX-00051,CUST-178,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-27 17:13:00
+TX-00052,CUST-182,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-03 22:16:00
+TX-00053,CUST-112,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-23 20:53:00
+TX-00054,CUST-106,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-01 17:49:00
+TX-00055,CUST-182,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-03 12:47:00
+TX-00056,CUST-171,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-24 07:07:00
+TX-00057,CUST-189,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-20 08:53:00
+TX-00058,CUST-175,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,4.0,2026-03-12 11:27:00
+TX-00059,CUST-106,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-09 18:57:00
+TX-00060,CUST-146,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-27 14:42:00
+TX-00061,CUST-146,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,4.0,2026-03-13 20:39:00
+TX-00062,CUST-131,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-21 12:56:00
+TX-00063,CUST-104,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-23 17:50:00
+TX-00064,CUST-186,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-02-01 15:10:00
+TX-00065,CUST-149,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-05 22:14:00
+TX-00066,CUST-159,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-14 16:52:00
+TX-00067,CUST-129,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-04 13:25:00
+TX-00068,CUST-136,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-09 15:22:00
+TX-00069,CUST-166,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-21 17:01:00
+TX-00070,CUST-134,prod-3,Electrolyte Spark Hydration,Hydration,3.25,3,4.0,2026-01-23 15:02:00
+TX-00071,CUST-177,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-25 18:46:00
+TX-00072,CUST-156,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-19 10:24:00
+TX-00073,CUST-125,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-02 08:45:00
+TX-00074,CUST-101,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-08 13:23:00
+TX-00075,CUST-109,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-27 17:39:00
+TX-00076,CUST-185,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-01-16 16:32:00
+TX-00077,CUST-186,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-22 17:25:00
+TX-00078,CUST-138,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-12 11:12:00
+TX-00079,CUST-186,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-18 12:39:00
+TX-00080,CUST-139,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-21 07:19:00
+TX-00081,CUST-127,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-25 17:29:00
+TX-00082,CUST-157,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-03-28 13:32:00
+TX-00083,CUST-195,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-22 09:18:00
+TX-00084,CUST-112,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-31 16:14:00
+TX-00085,CUST-119,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-04 08:15:00
+TX-00086,CUST-179,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-10 21:26:00
+TX-00087,CUST-174,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-25 19:31:00
+TX-00088,CUST-132,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-19 07:57:00
+TX-00089,CUST-200,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-24 14:11:00
+TX-00090,CUST-167,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-01 08:35:00
+TX-00091,CUST-116,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-28 11:51:00
+TX-00092,CUST-186,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-03-09 17:48:00
+TX-00093,CUST-179,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-06 20:53:00
+TX-00094,CUST-158,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-01-21 22:28:00
+TX-00095,CUST-197,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-01 15:49:00
+TX-00096,CUST-163,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-03-22 14:17:00
+TX-00097,CUST-110,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-06 14:17:00
+TX-00098,CUST-141,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-11 09:08:00
+TX-00099,CUST-130,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,4.0,2026-02-19 11:45:00
+TX-00100,CUST-109,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-23 20:21:00
+TX-00101,CUST-160,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-23 08:13:00
+TX-00102,CUST-150,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-03-16 07:54:00
+TX-00103,CUST-162,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-01 18:19:00
+TX-00104,CUST-154,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-10 14:31:00
+TX-00105,CUST-135,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-25 22:01:00
+TX-00106,CUST-144,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-27 19:46:00
+TX-00107,CUST-160,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-17 07:58:00
+TX-00108,CUST-176,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-03-14 07:05:00
+TX-00109,CUST-155,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-18 21:11:00
+TX-00110,CUST-134,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-02-18 17:13:00
+TX-00111,CUST-142,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-13 19:17:00
+TX-00112,CUST-133,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-11 22:01:00
+TX-00113,CUST-170,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-07 18:14:00
+TX-00114,CUST-109,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-25 08:48:00
+TX-00115,CUST-132,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-26 07:39:00
+TX-00116,CUST-131,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-17 22:42:00
+TX-00117,CUST-173,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-28 21:44:00
+TX-00118,CUST-199,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-17 12:38:00
+TX-00119,CUST-196,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-01-15 12:19:00
+TX-00120,CUST-175,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-04 16:36:00
+TX-00121,CUST-149,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,4.0,2026-02-20 13:04:00
+TX-00122,CUST-114,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-31 16:54:00
+TX-00123,CUST-177,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-16 08:22:00
+TX-00124,CUST-185,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,3,5.0,2026-02-17 09:32:00
+TX-00125,CUST-102,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-02-23 22:06:00
+TX-00126,CUST-147,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-23 21:45:00
+TX-00127,CUST-156,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-23 15:39:00
+TX-00128,CUST-200,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-03 21:27:00
+TX-00129,CUST-176,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-04 17:54:00
+TX-00130,CUST-112,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-05 21:15:00
+TX-00131,CUST-173,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,3,4.0,2026-03-20 19:21:00
+TX-00132,CUST-164,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-11 12:31:00
+TX-00133,CUST-146,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-03 17:17:00
+TX-00134,CUST-190,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-02-05 07:33:00
+TX-00135,CUST-111,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-31 20:31:00
+TX-00136,CUST-198,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-31 22:41:00
+TX-00137,CUST-163,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,5.0,2026-02-27 07:05:00
+TX-00138,CUST-129,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-21 14:19:00
+TX-00139,CUST-175,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-02-17 22:35:00
+TX-00140,CUST-145,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-02-24 17:22:00
+TX-00141,CUST-159,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-04 16:16:00
+TX-00142,CUST-116,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-25 17:07:00
+TX-00143,CUST-169,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-30 12:12:00
+TX-00144,CUST-195,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-03 15:46:00
+TX-00145,CUST-198,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-09 16:06:00
+TX-00146,CUST-138,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-30 18:11:00
+TX-00147,CUST-102,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-10 11:17:00
+TX-00148,CUST-107,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-12 16:44:00
+TX-00149,CUST-182,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-04 10:55:00
+TX-00150,CUST-174,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-06 22:30:00
+TX-00151,CUST-144,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-24 08:16:00
+TX-00152,CUST-115,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-09 19:31:00
+TX-00153,CUST-174,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,3,4.0,2026-03-22 08:09:00
+TX-00154,CUST-173,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-08 09:15:00
+TX-00155,CUST-172,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-23 14:49:00
+TX-00156,CUST-149,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-27 21:19:00
+TX-00157,CUST-155,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,4.0,2026-02-09 08:39:00
+TX-00158,CUST-198,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-27 13:16:00
+TX-00159,CUST-111,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-21 14:11:00
+TX-00160,CUST-110,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-21 07:26:00
+TX-00161,CUST-189,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-18 22:18:00
+TX-00162,CUST-130,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-06 16:44:00
+TX-00163,CUST-110,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-29 14:59:00
+TX-00164,CUST-181,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-17 13:27:00
+TX-00165,CUST-170,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-29 11:58:00
+TX-00166,CUST-119,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-10 08:10:00
+TX-00167,CUST-177,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-14 16:28:00
+TX-00168,CUST-160,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-30 16:44:00
+TX-00169,CUST-135,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-06 22:28:00
+TX-00170,CUST-177,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-06 20:47:00
+TX-00171,CUST-178,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-02 07:05:00
+TX-00172,CUST-187,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-15 07:48:00
+TX-00173,CUST-135,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-15 08:48:00
+TX-00174,CUST-161,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-03-08 21:58:00
+TX-00175,CUST-124,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-16 20:40:00
+TX-00176,CUST-112,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-03-02 18:26:00
+TX-00177,CUST-142,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-27 10:54:00
+TX-00178,CUST-143,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-22 22:18:00
+TX-00179,CUST-152,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-12 08:29:00
+TX-00180,CUST-141,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-02 17:07:00
+TX-00181,CUST-166,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-01 21:26:00
+TX-00182,CUST-125,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-08 18:39:00
+TX-00183,CUST-181,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-02-26 08:13:00
+TX-00184,CUST-171,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-01-17 16:28:00
+TX-00185,CUST-116,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-04 14:45:00
+TX-00186,CUST-140,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-12 07:35:00
+TX-00187,CUST-112,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-29 10:29:00
+TX-00188,CUST-183,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-20 22:59:00
+TX-00189,CUST-138,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-03-07 15:26:00
+TX-00190,CUST-161,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-01 21:35:00
+TX-00191,CUST-150,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-25 11:55:00
+TX-00192,CUST-136,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-02-23 17:59:00
+TX-00193,CUST-101,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-02-06 16:53:00
+TX-00194,CUST-175,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-26 22:55:00
+TX-00195,CUST-158,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-10 22:22:00
+TX-00196,CUST-171,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-11 19:29:00
+TX-00197,CUST-125,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-31 14:36:00
+TX-00198,CUST-130,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-02-22 08:20:00
+TX-00199,CUST-191,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-18 19:42:00
+TX-00200,CUST-120,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-05 08:08:00
+TX-00201,CUST-176,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-02-12 10:55:00
+TX-00202,CUST-113,prod-7,Detox Green Juice,Fresh Juices,5.0,2,4.0,2026-03-09 21:00:00
+TX-00203,CUST-153,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-03-25 11:04:00
+TX-00204,CUST-134,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-13 19:41:00
+TX-00205,CUST-143,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-28 19:20:00
+TX-00206,CUST-192,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,4.0,2026-03-04 08:39:00
+TX-00207,CUST-131,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-22 16:14:00
+TX-00208,CUST-112,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-25 10:48:00
+TX-00209,CUST-191,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-13 21:10:00
+TX-00210,CUST-139,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-04 08:20:00
+TX-00211,CUST-138,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-15 18:27:00
+TX-00212,CUST-132,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-09 20:36:00
+TX-00213,CUST-124,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-22 12:05:00
+TX-00214,CUST-149,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,4.0,2026-03-21 14:31:00
+TX-00215,CUST-130,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-01 15:29:00
+TX-00216,CUST-186,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-02 21:57:00
+TX-00217,CUST-187,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-03-11 12:04:00
+TX-00218,CUST-145,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-17 16:40:00
+TX-00219,CUST-189,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-02-02 21:54:00
+TX-00220,CUST-126,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-02-19 22:06:00
+TX-00221,CUST-149,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,5.0,2026-03-15 18:36:00
+TX-00222,CUST-190,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-07 07:53:00
+TX-00223,CUST-151,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-02-05 07:36:00
+TX-00224,CUST-178,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-05 16:49:00
+TX-00225,CUST-178,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-15 14:40:00
+TX-00226,CUST-180,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-02 11:40:00
+TX-00227,CUST-181,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,5.0,2026-03-24 08:19:00
+TX-00228,CUST-105,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-16 18:46:00
+TX-00229,CUST-112,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-07 17:47:00
+TX-00230,CUST-123,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-26 11:50:00
+TX-00231,CUST-147,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-09 15:53:00
+TX-00232,CUST-133,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-03-03 16:47:00
+TX-00233,CUST-115,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-01 09:09:00
+TX-00234,CUST-187,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-03-28 19:54:00
+TX-00235,CUST-112,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,4.0,2026-02-20 07:16:00
+TX-00236,CUST-159,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,5.0,2026-02-17 15:37:00
+TX-00237,CUST-182,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-02-17 10:43:00
+TX-00238,CUST-161,prod-7,Detox Green Juice,Fresh Juices,5.0,3,4.0,2026-01-04 17:58:00
+TX-00239,CUST-183,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-09 21:58:00
+TX-00240,CUST-139,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-25 20:07:00
+TX-00241,CUST-106,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-05 16:31:00
+TX-00242,CUST-113,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-31 11:24:00
+TX-00243,CUST-148,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-27 20:37:00
+TX-00244,CUST-154,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-25 10:53:00
+TX-00245,CUST-179,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,5.0,2026-02-22 15:02:00
+TX-00246,CUST-128,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-26 21:15:00
+TX-00247,CUST-113,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-29 18:34:00
+TX-00248,CUST-146,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-08 19:17:00
+TX-00249,CUST-116,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-02-28 09:42:00
+TX-00250,CUST-183,prod-7,Detox Green Juice,Fresh Juices,5.0,3,5.0,2026-03-23 07:03:00
+TX-00251,CUST-132,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-17 13:04:00
+TX-00252,CUST-127,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-17 13:52:00
+TX-00253,CUST-143,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-19 07:17:00
+TX-00254,CUST-117,prod-7,Detox Green Juice,Fresh Juices,5.0,2,4.0,2026-03-11 15:51:00
+TX-00255,CUST-115,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-26 07:08:00
+TX-00256,CUST-146,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-31 17:01:00
+TX-00257,CUST-134,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-01-07 11:47:00
+TX-00258,CUST-168,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-15 09:30:00
+TX-00259,CUST-200,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-02-16 10:28:00
+TX-00260,CUST-129,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-20 08:46:00
+TX-00261,CUST-167,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-02-08 21:41:00
+TX-00262,CUST-108,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-03-03 19:27:00
+TX-00263,CUST-163,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-26 09:57:00
+TX-00264,CUST-142,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-19 11:04:00
+TX-00265,CUST-136,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-03-21 17:24:00
+TX-00266,CUST-159,prod-6,Organic Protein Crunch Bar,Snacks,3.5,3,4.0,2026-03-06 20:06:00
+TX-00267,CUST-184,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-25 13:27:00
+TX-00268,CUST-130,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,5.0,2026-02-22 17:52:00
+TX-00269,CUST-152,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-23 10:20:00
+TX-00270,CUST-141,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-27 15:23:00
+TX-00271,CUST-188,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-02 09:05:00
+TX-00272,CUST-112,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-25 10:47:00
+TX-00273,CUST-148,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-17 08:37:00
+TX-00274,CUST-172,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-12 10:26:00
+TX-00275,CUST-186,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-02-24 08:18:00
+TX-00276,CUST-140,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-02-15 10:36:00
+TX-00277,CUST-120,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-26 22:14:00
+TX-00278,CUST-145,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-13 18:07:00
+TX-00279,CUST-174,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-29 20:54:00
+TX-00280,CUST-199,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-21 07:38:00
+TX-00281,CUST-189,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-04 07:11:00
+TX-00282,CUST-190,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-09 17:22:00
+TX-00283,CUST-124,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-19 19:04:00
+TX-00284,CUST-195,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-23 07:05:00
+TX-00285,CUST-168,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-28 19:26:00
+TX-00286,CUST-144,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-21 18:19:00
+TX-00287,CUST-142,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-14 09:56:00
+TX-00288,CUST-120,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-01-21 08:43:00
+TX-00289,CUST-135,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-02-26 20:31:00
+TX-00290,CUST-154,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-04 13:48:00
+TX-00291,CUST-115,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,5.0,2026-02-14 20:07:00
+TX-00292,CUST-187,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-28 22:33:00
+TX-00293,CUST-140,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-06 14:25:00
+TX-00294,CUST-108,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-01 13:19:00
+TX-00295,CUST-199,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-18 15:18:00
+TX-00296,CUST-116,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-01 22:47:00
+TX-00297,CUST-123,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-17 19:34:00
+TX-00298,CUST-130,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-06 18:04:00
+TX-00299,CUST-195,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-06 20:01:00
+TX-00300,CUST-110,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-10 20:36:00
+TX-00301,CUST-191,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-23 20:18:00
+TX-00302,CUST-152,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-03 17:10:00
+TX-00303,CUST-159,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-30 18:05:00
+TX-00304,CUST-114,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-01 20:37:00
+TX-00305,CUST-168,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-11 19:55:00
+TX-00306,CUST-196,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-13 14:21:00
+TX-00307,CUST-110,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-07 10:33:00
+TX-00308,CUST-125,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-02-14 18:46:00
+TX-00309,CUST-131,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-14 11:16:00
+TX-00310,CUST-123,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-19 11:48:00
+TX-00311,CUST-110,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-23 22:29:00
+TX-00312,CUST-198,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-16 21:43:00
+TX-00313,CUST-183,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-23 17:55:00
+TX-00314,CUST-141,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-20 21:04:00
+TX-00315,CUST-157,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-22 16:50:00
+TX-00316,CUST-176,prod-7,Detox Green Juice,Fresh Juices,5.0,2,4.0,2026-01-08 18:32:00
+TX-00317,CUST-140,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-01 21:02:00
+TX-00318,CUST-148,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-06 09:41:00
+TX-00319,CUST-179,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-18 19:29:00
+TX-00320,CUST-171,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-06 21:58:00
+TX-00321,CUST-184,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-25 17:38:00
+TX-00322,CUST-165,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-20 08:28:00
+TX-00323,CUST-144,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-01-11 12:02:00
+TX-00324,CUST-191,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-26 21:33:00
+TX-00325,CUST-179,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-21 18:23:00
+TX-00326,CUST-150,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-22 17:43:00
+TX-00327,CUST-107,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-22 17:04:00
+TX-00328,CUST-113,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-03-13 19:18:00
+TX-00329,CUST-193,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-26 11:21:00
+TX-00330,CUST-175,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-26 11:58:00
+TX-00331,CUST-140,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,4.0,2026-03-25 19:08:00
+TX-00332,CUST-140,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-13 19:41:00
+TX-00333,CUST-117,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-27 09:41:00
+TX-00334,CUST-155,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-07 18:01:00
+TX-00335,CUST-140,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-24 13:21:00
+TX-00336,CUST-125,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-01-29 11:09:00
+TX-00337,CUST-138,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-13 08:42:00
+TX-00338,CUST-199,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,5.0,2026-03-21 11:38:00
+TX-00339,CUST-120,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-21 12:53:00
+TX-00340,CUST-199,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-03-21 12:46:00
+TX-00341,CUST-106,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-22 18:43:00
+TX-00342,CUST-131,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-26 16:48:00
+TX-00343,CUST-158,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-01-30 14:19:00
+TX-00344,CUST-125,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-17 21:29:00
+TX-00345,CUST-200,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-18 20:10:00
+TX-00346,CUST-178,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-18 15:03:00
+TX-00347,CUST-162,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-17 10:45:00
+TX-00348,CUST-116,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-06 09:48:00
+TX-00349,CUST-135,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-27 11:53:00
+TX-00350,CUST-112,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-29 21:56:00
+TX-00351,CUST-104,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-23 08:25:00
+TX-00352,CUST-148,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-31 19:05:00
+TX-00353,CUST-129,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,4.0,2026-01-04 17:59:00
+TX-00354,CUST-192,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-25 17:50:00
+TX-00355,CUST-118,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-05 16:58:00
+TX-00356,CUST-190,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-01-18 22:28:00
+TX-00357,CUST-101,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-11 07:16:00
+TX-00358,CUST-120,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-03-12 20:07:00
+TX-00359,CUST-131,prod-6,Organic Protein Crunch Bar,Snacks,3.5,3,4.0,2026-02-08 10:03:00
+TX-00360,CUST-154,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-23 21:04:00
+TX-00361,CUST-164,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-18 07:40:00
+TX-00362,CUST-174,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-31 11:18:00
+TX-00363,CUST-101,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-03-20 18:15:00
+TX-00364,CUST-124,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-27 09:33:00
+TX-00365,CUST-109,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-09 07:24:00
+TX-00366,CUST-106,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-23 19:23:00
+TX-00367,CUST-196,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-03 18:50:00
+TX-00368,CUST-145,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-01-31 10:49:00
+TX-00369,CUST-118,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-06 18:34:00
+TX-00370,CUST-183,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-23 21:44:00
+TX-00371,CUST-181,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-24 11:04:00
+TX-00372,CUST-200,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-28 08:18:00
+TX-00373,CUST-106,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-01-26 08:20:00
+TX-00374,CUST-166,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-20 22:16:00
+TX-00375,CUST-197,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-24 13:18:00
+TX-00376,CUST-200,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-01-07 17:17:00
+TX-00377,CUST-148,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-25 19:47:00
+TX-00378,CUST-150,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-13 12:31:00
+TX-00379,CUST-164,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-17 15:51:00
+TX-00380,CUST-194,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-24 09:27:00
+TX-00381,CUST-124,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-11 16:20:00
+TX-00382,CUST-111,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-11 16:19:00
+TX-00383,CUST-178,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-24 12:44:00
+TX-00384,CUST-145,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,5.0,2026-02-27 08:46:00
+TX-00385,CUST-179,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,4.0,2026-02-25 15:40:00
+TX-00386,CUST-110,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-03-27 19:23:00
+TX-00387,CUST-104,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-19 21:02:00
+TX-00388,CUST-109,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-31 18:23:00
+TX-00389,CUST-173,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-05 11:43:00
+TX-00390,CUST-148,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-17 21:48:00
+TX-00391,CUST-174,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-18 18:25:00
+TX-00392,CUST-184,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-05 14:07:00
+TX-00393,CUST-195,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-24 22:33:00
+TX-00394,CUST-172,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-16 15:49:00
+TX-00395,CUST-191,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-02-27 13:39:00
+TX-00396,CUST-189,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-04 13:07:00
+TX-00397,CUST-110,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-27 12:57:00
+TX-00398,CUST-157,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-12 17:42:00
+TX-00399,CUST-191,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-01-09 16:57:00
+TX-00400,CUST-121,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,5.0,2026-03-31 12:50:00
+TX-00401,CUST-166,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-29 10:12:00
+TX-00402,CUST-131,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-05 07:23:00
+TX-00403,CUST-174,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-17 21:51:00
+TX-00404,CUST-117,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,5.0,2026-03-20 09:04:00
+TX-00405,CUST-151,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-03-03 20:49:00
+TX-00406,CUST-174,prod-7,Detox Green Juice,Fresh Juices,5.0,2,4.0,2026-01-10 11:20:00
+TX-00407,CUST-158,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-01 18:08:00
+TX-00408,CUST-199,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-17 20:32:00
+TX-00409,CUST-116,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-03-08 11:19:00
+TX-00410,CUST-121,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-11 14:22:00
+TX-00411,CUST-137,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-11 15:12:00
+TX-00412,CUST-171,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-05 11:40:00
+TX-00413,CUST-179,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,4.0,2026-03-10 09:32:00
+TX-00414,CUST-176,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-16 11:10:00
+TX-00415,CUST-180,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-19 17:53:00
+TX-00416,CUST-106,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-04 09:02:00
+TX-00417,CUST-199,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-15 15:41:00
+TX-00418,CUST-199,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-15 20:39:00
+TX-00419,CUST-104,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-05 16:41:00
+TX-00420,CUST-162,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-02-01 19:19:00
+TX-00421,CUST-110,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-30 08:10:00
+TX-00422,CUST-154,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,5.0,2026-03-03 21:13:00
+TX-00423,CUST-178,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-19 17:55:00
+TX-00424,CUST-141,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,5.0,2026-02-14 19:08:00
+TX-00425,CUST-166,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-13 10:20:00
+TX-00426,CUST-160,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-16 15:28:00
+TX-00427,CUST-119,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-01-13 08:18:00
+TX-00428,CUST-179,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-23 14:55:00
+TX-00429,CUST-142,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-15 17:12:00
+TX-00430,CUST-164,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-03-07 21:31:00
+TX-00431,CUST-164,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-03 09:25:00
+TX-00432,CUST-159,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-31 13:37:00
+TX-00433,CUST-107,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-07 16:31:00
+TX-00434,CUST-184,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-28 22:18:00
+TX-00435,CUST-102,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-01-14 20:08:00
+TX-00436,CUST-194,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-16 19:23:00
+TX-00437,CUST-152,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-07 13:23:00
+TX-00438,CUST-137,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-10 19:32:00
+TX-00439,CUST-198,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-12 15:52:00
+TX-00440,CUST-188,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-20 10:08:00
+TX-00441,CUST-151,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-17 17:35:00
+TX-00442,CUST-197,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-19 13:38:00
+TX-00443,CUST-152,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-06 08:02:00
+TX-00444,CUST-118,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-02-12 22:33:00
+TX-00445,CUST-120,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-19 11:20:00
+TX-00446,CUST-141,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-01-21 19:39:00
+TX-00447,CUST-176,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-13 22:45:00
+TX-00448,CUST-139,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-02 07:23:00
+TX-00449,CUST-187,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-01-15 20:37:00
+TX-00450,CUST-193,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-30 07:38:00
+TX-00451,CUST-134,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-25 14:46:00
+TX-00452,CUST-175,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-03 12:33:00
+TX-00453,CUST-193,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-21 19:09:00
+TX-00454,CUST-105,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-15 10:12:00
+TX-00455,CUST-157,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-10 20:09:00
+TX-00456,CUST-189,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-27 20:32:00
+TX-00457,CUST-161,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-08 11:33:00
+TX-00458,CUST-172,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-11 22:33:00
+TX-00459,CUST-141,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-01-23 21:58:00
+TX-00460,CUST-170,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-02-15 15:39:00
+TX-00461,CUST-125,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-01 15:35:00
+TX-00462,CUST-129,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-08 16:45:00
+TX-00463,CUST-189,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-04 17:30:00
+TX-00464,CUST-172,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-05 16:07:00
+TX-00465,CUST-187,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-03-11 19:57:00
+TX-00466,CUST-145,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-19 16:02:00
+TX-00467,CUST-192,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-01-11 18:59:00
+TX-00468,CUST-184,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-02 22:13:00
+TX-00469,CUST-169,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-02-04 15:08:00
+TX-00470,CUST-179,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-17 14:15:00
+TX-00471,CUST-186,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-09 14:40:00
+TX-00472,CUST-107,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,5.0,2026-01-13 20:21:00
+TX-00473,CUST-113,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-29 11:00:00
+TX-00474,CUST-121,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-02-22 22:30:00
+TX-00475,CUST-197,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-06 17:18:00
+TX-00476,CUST-108,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-12 14:34:00
+TX-00477,CUST-193,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-01-05 12:26:00
+TX-00478,CUST-105,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-20 22:11:00
+TX-00479,CUST-138,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-05 07:19:00
+TX-00480,CUST-178,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-14 17:18:00
+TX-00481,CUST-183,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-11 22:56:00
+TX-00482,CUST-165,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-01 15:12:00
+TX-00483,CUST-143,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-21 21:41:00
+TX-00484,CUST-192,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-24 07:47:00
+TX-00485,CUST-138,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-14 13:11:00
+TX-00486,CUST-182,prod-7,Detox Green Juice,Fresh Juices,5.0,2,5.0,2026-02-21 20:32:00
+TX-00487,CUST-112,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-21 10:11:00
+TX-00488,CUST-162,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-11 14:00:00
+TX-00489,CUST-150,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-31 21:48:00
+TX-00490,CUST-143,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-08 07:16:00
+TX-00491,CUST-147,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-30 14:03:00
+TX-00492,CUST-116,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-01 16:10:00
+TX-00493,CUST-188,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-06 16:44:00
+TX-00494,CUST-182,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-02-07 18:39:00
+TX-00495,CUST-129,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-18 22:09:00
+TX-00496,CUST-196,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-19 18:26:00
+TX-00497,CUST-171,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-02 13:48:00
+TX-00498,CUST-188,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-03-18 09:33:00
+TX-00499,CUST-168,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-16 09:58:00
+TX-00500,CUST-115,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-08 13:36:00
+TX-00501,CUST-120,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-22 17:54:00
+TX-00502,CUST-157,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-15 13:45:00
+TX-00503,CUST-163,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-12 21:51:00
+TX-00504,CUST-159,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,4.0,2026-01-17 20:29:00
+TX-00505,CUST-172,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-01 16:46:00
+TX-00506,CUST-151,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,4.0,2026-02-02 07:47:00
+TX-00507,CUST-175,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-10 08:27:00
+TX-00508,CUST-190,prod-7,Detox Green Juice,Fresh Juices,5.0,2,4.0,2026-01-09 08:59:00
+TX-00509,CUST-161,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-05 16:26:00
+TX-00510,CUST-199,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-18 20:23:00
+TX-00511,CUST-158,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-18 19:05:00
+TX-00512,CUST-185,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,3,5.0,2026-03-11 11:41:00
+TX-00513,CUST-116,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-23 19:33:00
+TX-00514,CUST-194,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,4.0,2026-01-29 07:48:00
+TX-00515,CUST-139,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-03-01 20:34:00
+TX-00516,CUST-130,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-01 21:22:00
+TX-00517,CUST-136,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-25 10:02:00
+TX-00518,CUST-154,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-20 07:15:00
+TX-00519,CUST-109,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-13 08:28:00
+TX-00520,CUST-187,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-07 14:47:00
+TX-00521,CUST-152,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-26 14:34:00
+TX-00522,CUST-197,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-08 11:32:00
+TX-00523,CUST-130,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-15 17:36:00
+TX-00524,CUST-199,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-28 17:15:00
+TX-00525,CUST-119,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-26 14:26:00
+TX-00526,CUST-136,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-08 12:40:00
+TX-00527,CUST-155,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-13 22:03:00
+TX-00528,CUST-183,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-27 19:50:00
+TX-00529,CUST-141,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-31 20:26:00
+TX-00530,CUST-139,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-02-18 12:48:00
+TX-00531,CUST-161,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,3,4.0,2026-01-31 14:19:00
+TX-00532,CUST-160,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-08 20:26:00
+TX-00533,CUST-168,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-18 19:15:00
+TX-00534,CUST-127,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-12 09:59:00
+TX-00535,CUST-148,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-12 13:03:00
+TX-00536,CUST-149,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-28 08:55:00
+TX-00537,CUST-125,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-17 13:30:00
+TX-00538,CUST-143,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-08 07:13:00
+TX-00539,CUST-195,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-16 22:58:00
+TX-00540,CUST-190,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-19 13:25:00
+TX-00541,CUST-171,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-11 16:24:00
+TX-00542,CUST-169,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-03-25 18:19:00
+TX-00543,CUST-147,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-07 22:29:00
+TX-00544,CUST-193,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-02 17:58:00
+TX-00545,CUST-148,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-10 20:02:00
+TX-00546,CUST-129,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-19 07:16:00
+TX-00547,CUST-175,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-16 20:18:00
+TX-00548,CUST-126,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-12 14:24:00
+TX-00549,CUST-132,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-05 17:16:00
+TX-00550,CUST-193,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-24 22:29:00
+TX-00551,CUST-194,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,5.0,2026-02-15 12:08:00
+TX-00552,CUST-124,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-03-11 08:33:00
+TX-00553,CUST-110,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-27 08:48:00
+TX-00554,CUST-153,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-18 14:04:00
+TX-00555,CUST-120,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-02 13:32:00
+TX-00556,CUST-148,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-08 22:42:00
+TX-00557,CUST-103,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-01 20:00:00
+TX-00558,CUST-168,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-05 16:01:00
+TX-00559,CUST-190,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-28 20:51:00
+TX-00560,CUST-114,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-13 11:15:00
+TX-00561,CUST-180,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-03-09 15:52:00
+TX-00562,CUST-135,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-20 09:23:00
+TX-00563,CUST-159,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-14 14:44:00
+TX-00564,CUST-139,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-29 09:41:00
+TX-00565,CUST-198,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-05 09:25:00
+TX-00566,CUST-149,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-03-12 22:03:00
+TX-00567,CUST-102,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-31 12:05:00
+TX-00568,CUST-156,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-24 17:36:00
+TX-00569,CUST-168,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-06 14:13:00
+TX-00570,CUST-173,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-02 15:02:00
+TX-00571,CUST-188,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-05 08:11:00
+TX-00572,CUST-103,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-27 11:48:00
+TX-00573,CUST-151,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,4.0,2026-01-10 16:10:00
+TX-00574,CUST-173,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-19 17:24:00
+TX-00575,CUST-118,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,5.0,2026-03-30 09:32:00
+TX-00576,CUST-107,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,4.0,2026-01-13 20:14:00
+TX-00577,CUST-144,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-03-19 19:49:00
+TX-00578,CUST-104,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-03-23 15:50:00
+TX-00579,CUST-163,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-01-30 18:35:00
+TX-00580,CUST-156,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-24 19:05:00
+TX-00581,CUST-138,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-01 09:05:00
+TX-00582,CUST-120,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-18 11:47:00
+TX-00583,CUST-141,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-16 10:05:00
+TX-00584,CUST-140,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-26 18:48:00
+TX-00585,CUST-114,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-17 09:11:00
+TX-00586,CUST-158,prod-7,Detox Green Juice,Fresh Juices,5.0,3,4.0,2026-03-13 20:06:00
+TX-00587,CUST-112,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-15 09:38:00
+TX-00588,CUST-142,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-19 07:18:00
+TX-00589,CUST-150,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-11 14:36:00
+TX-00590,CUST-122,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-29 19:10:00
+TX-00591,CUST-135,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-08 15:31:00
+TX-00592,CUST-109,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-01-22 20:17:00
+TX-00593,CUST-139,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-03-03 09:23:00
+TX-00594,CUST-132,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-22 22:38:00
+TX-00595,CUST-126,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-28 10:08:00
+TX-00596,CUST-101,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-20 17:53:00
+TX-00597,CUST-149,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-12 21:21:00
+TX-00598,CUST-184,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-03-18 11:19:00
+TX-00599,CUST-178,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,3,5.0,2026-03-30 13:30:00
+TX-00600,CUST-123,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-20 17:18:00
+TX-00601,CUST-189,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-23 22:36:00
+TX-00602,CUST-142,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-18 15:52:00
+TX-00603,CUST-147,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-15 13:37:00
+TX-00604,CUST-124,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-03-29 07:46:00
+TX-00605,CUST-191,prod-3,Electrolyte Spark Hydration,Hydration,3.25,3,5.0,2026-01-27 21:51:00
+TX-00606,CUST-189,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-09 20:43:00
+TX-00607,CUST-118,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-23 16:15:00
+TX-00608,CUST-185,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-20 20:50:00
+TX-00609,CUST-110,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-27 22:37:00
+TX-00610,CUST-169,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-06 20:34:00
+TX-00611,CUST-147,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-31 09:06:00
+TX-00612,CUST-185,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,4.0,2026-03-27 18:10:00
+TX-00613,CUST-173,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-03-24 19:48:00
+TX-00614,CUST-156,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-14 07:06:00
+TX-00615,CUST-129,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-07 14:28:00
+TX-00616,CUST-151,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-01 11:22:00
+TX-00617,CUST-162,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-14 16:26:00
+TX-00618,CUST-115,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-19 18:19:00
+TX-00619,CUST-159,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-27 22:22:00
+TX-00620,CUST-113,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-26 21:20:00
+TX-00621,CUST-139,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-06 10:01:00
+TX-00622,CUST-183,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-01-14 12:59:00
+TX-00623,CUST-167,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-01-23 12:21:00
+TX-00624,CUST-155,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-01 14:51:00
+TX-00625,CUST-181,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-01-24 12:40:00
+TX-00626,CUST-156,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-20 07:47:00
+TX-00627,CUST-126,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-27 20:24:00
+TX-00628,CUST-191,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-01-28 13:17:00
+TX-00629,CUST-109,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-15 10:51:00
+TX-00630,CUST-124,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-16 17:12:00
+TX-00631,CUST-115,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-03 22:33:00
+TX-00632,CUST-141,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-18 19:39:00
+TX-00633,CUST-176,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-15 18:22:00
+TX-00634,CUST-180,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-23 16:58:00
+TX-00635,CUST-176,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-11 11:20:00
+TX-00636,CUST-131,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-02-09 10:11:00
+TX-00637,CUST-189,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-19 19:26:00
+TX-00638,CUST-118,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-15 19:27:00
+TX-00639,CUST-163,prod-3,Electrolyte Spark Hydration,Hydration,3.25,3,4.0,2026-03-23 12:35:00
+TX-00640,CUST-163,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-06 11:11:00
+TX-00641,CUST-158,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-03-21 08:55:00
+TX-00642,CUST-102,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-04 11:12:00
+TX-00643,CUST-172,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-06 22:26:00
+TX-00644,CUST-163,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-23 21:31:00
+TX-00645,CUST-111,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-14 07:50:00
+TX-00646,CUST-138,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-05 15:14:00
+TX-00647,CUST-137,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-22 21:36:00
+TX-00648,CUST-199,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-05 10:36:00
+TX-00649,CUST-135,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-11 18:34:00
+TX-00650,CUST-198,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-26 13:27:00
+TX-00651,CUST-195,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-03-25 14:19:00
+TX-00652,CUST-158,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-03 18:55:00
+TX-00653,CUST-157,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-01-16 14:13:00
+TX-00654,CUST-191,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-03-20 20:10:00
+TX-00655,CUST-118,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-27 13:51:00
+TX-00656,CUST-173,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-02-14 15:38:00
+TX-00657,CUST-142,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-07 16:36:00
+TX-00658,CUST-166,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-28 10:08:00
+TX-00659,CUST-108,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-05 11:44:00
+TX-00660,CUST-132,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-19 17:53:00
+TX-00661,CUST-198,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-28 19:31:00
+TX-00662,CUST-174,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-22 15:40:00
+TX-00663,CUST-149,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-27 09:40:00
+TX-00664,CUST-152,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-07 15:44:00
+TX-00665,CUST-159,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-04 17:37:00
+TX-00666,CUST-200,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-12 21:40:00
+TX-00667,CUST-190,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,5.0,2026-02-15 09:50:00
+TX-00668,CUST-128,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-02-24 13:31:00
+TX-00669,CUST-142,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-06 17:35:00
+TX-00670,CUST-117,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-14 22:50:00
+TX-00671,CUST-188,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-07 08:06:00
+TX-00672,CUST-159,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-03 10:59:00
+TX-00673,CUST-157,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-28 07:27:00
+TX-00674,CUST-189,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-17 16:10:00
+TX-00675,CUST-112,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-25 18:16:00
+TX-00676,CUST-148,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-03-27 12:03:00
+TX-00677,CUST-181,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-02-09 14:27:00
+TX-00678,CUST-112,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-01-13 07:13:00
+TX-00679,CUST-110,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-17 14:33:00
+TX-00680,CUST-157,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-02 07:44:00
+TX-00681,CUST-116,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-24 11:30:00
+TX-00682,CUST-130,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-19 09:46:00
+TX-00683,CUST-114,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-02-10 18:56:00
+TX-00684,CUST-118,prod-7,Detox Green Juice,Fresh Juices,5.0,2,4.0,2026-02-18 11:41:00
+TX-00685,CUST-109,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-09 07:39:00
+TX-00686,CUST-122,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-26 18:46:00
+TX-00687,CUST-181,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-20 20:39:00
+TX-00688,CUST-157,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,4.0,2026-01-28 09:57:00
+TX-00689,CUST-118,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-16 19:22:00
+TX-00690,CUST-141,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-18 14:17:00
+TX-00691,CUST-111,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-01 16:49:00
+TX-00692,CUST-104,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-26 16:13:00
+TX-00693,CUST-178,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-03-07 13:47:00
+TX-00694,CUST-138,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-24 08:50:00
+TX-00695,CUST-164,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-02-19 10:15:00
+TX-00696,CUST-182,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-18 09:33:00
+TX-00697,CUST-147,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-10 11:24:00
+TX-00698,CUST-154,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-02-16 12:48:00
+TX-00699,CUST-199,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-10 07:37:00
+TX-00700,CUST-102,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-03 13:02:00
+TX-00701,CUST-151,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-06 16:40:00
+TX-00702,CUST-165,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-23 20:44:00
+TX-00703,CUST-111,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-23 11:17:00
+TX-00704,CUST-140,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-01-11 13:51:00
+TX-00705,CUST-169,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-02-11 19:37:00
+TX-00706,CUST-140,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-31 20:46:00
+TX-00707,CUST-108,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-01 09:59:00
+TX-00708,CUST-115,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-02-28 08:19:00
+TX-00709,CUST-116,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-02 11:44:00
+TX-00710,CUST-121,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-03-05 18:33:00
+TX-00711,CUST-122,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-17 11:47:00
+TX-00712,CUST-194,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-16 07:21:00
+TX-00713,CUST-135,prod-7,Detox Green Juice,Fresh Juices,5.0,3,4.0,2026-03-09 09:16:00
+TX-00714,CUST-164,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-02-28 18:03:00
+TX-00715,CUST-173,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-01-22 18:10:00
+TX-00716,CUST-199,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-14 10:14:00
+TX-00717,CUST-166,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-01 08:54:00
+TX-00718,CUST-132,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-06 22:23:00
+TX-00719,CUST-120,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-23 08:35:00
+TX-00720,CUST-195,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-25 20:14:00
+TX-00721,CUST-132,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-23 17:17:00
+TX-00722,CUST-174,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-17 10:32:00
+TX-00723,CUST-107,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-23 14:51:00
+TX-00724,CUST-106,prod-7,Detox Green Juice,Fresh Juices,5.0,2,5.0,2026-02-21 09:56:00
+TX-00725,CUST-137,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-09 17:05:00
+TX-00726,CUST-159,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-02 18:12:00
+TX-00727,CUST-173,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-08 14:29:00
+TX-00728,CUST-176,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-05 13:46:00
+TX-00729,CUST-120,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-01 20:01:00
+TX-00730,CUST-170,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-14 07:21:00
+TX-00731,CUST-198,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-26 19:54:00
+TX-00732,CUST-194,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-09 10:13:00
+TX-00733,CUST-131,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-23 22:03:00
+TX-00734,CUST-192,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-05 09:02:00
+TX-00735,CUST-167,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-22 18:29:00
+TX-00736,CUST-111,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-16 10:32:00
+TX-00737,CUST-182,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-20 09:37:00
+TX-00738,CUST-108,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-25 11:15:00
+TX-00739,CUST-134,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-10 19:44:00
+TX-00740,CUST-142,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-10 21:17:00
+TX-00741,CUST-110,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-26 11:49:00
+TX-00742,CUST-114,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-20 10:10:00
+TX-00743,CUST-160,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-10 20:07:00
+TX-00744,CUST-146,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-27 21:19:00
+TX-00745,CUST-134,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-16 09:10:00
+TX-00746,CUST-139,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-31 08:13:00
+TX-00747,CUST-119,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-12 14:22:00
+TX-00748,CUST-166,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-07 16:16:00
+TX-00749,CUST-104,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-21 21:35:00
+TX-00750,CUST-171,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-02-01 10:29:00
+TX-00751,CUST-118,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-16 07:03:00
+TX-00752,CUST-117,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-26 19:23:00
+TX-00753,CUST-181,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-24 09:37:00
+TX-00754,CUST-134,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-10 07:04:00
+TX-00755,CUST-183,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-26 11:05:00
+TX-00756,CUST-116,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-06 21:03:00
+TX-00757,CUST-174,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-25 19:31:00
+TX-00758,CUST-149,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-29 20:11:00
+TX-00759,CUST-128,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-01-24 15:17:00
+TX-00760,CUST-120,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-01-05 14:41:00
+TX-00761,CUST-164,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-02-22 22:03:00
+TX-00762,CUST-136,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-19 11:26:00
+TX-00763,CUST-183,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-09 14:40:00
+TX-00764,CUST-103,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-18 18:30:00
+TX-00765,CUST-163,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-02-14 17:24:00
+TX-00766,CUST-124,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-04 17:38:00
+TX-00767,CUST-104,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-02-05 08:51:00
+TX-00768,CUST-168,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-15 14:10:00
+TX-00769,CUST-132,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-26 14:17:00
+TX-00770,CUST-195,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-08 14:36:00
+TX-00771,CUST-146,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-01-23 12:15:00
+TX-00772,CUST-141,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-31 18:58:00
+TX-00773,CUST-104,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-31 18:36:00
+TX-00774,CUST-119,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-14 13:53:00
+TX-00775,CUST-170,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-09 12:31:00
+TX-00776,CUST-112,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-08 14:38:00
+TX-00777,CUST-103,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-03-09 22:00:00
+TX-00778,CUST-179,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-26 11:21:00
+TX-00779,CUST-123,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-11 08:01:00
+TX-00780,CUST-176,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,5.0,2026-01-19 10:54:00
+TX-00781,CUST-110,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-17 19:37:00
+TX-00782,CUST-144,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-08 17:08:00
+TX-00783,CUST-194,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-25 22:41:00
+TX-00784,CUST-123,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-13 18:14:00
+TX-00785,CUST-176,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-01-23 19:19:00
+TX-00786,CUST-189,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-07 11:11:00
+TX-00787,CUST-101,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,4.0,2026-03-31 19:54:00
+TX-00788,CUST-124,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-19 17:58:00
+TX-00789,CUST-129,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-23 10:59:00
+TX-00790,CUST-119,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-12 09:15:00
+TX-00791,CUST-141,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-22 09:52:00
+TX-00792,CUST-186,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-23 17:28:00
+TX-00793,CUST-134,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-27 14:44:00
+TX-00794,CUST-145,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-02 10:46:00
+TX-00795,CUST-107,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-19 21:46:00
+TX-00796,CUST-122,prod-7,Detox Green Juice,Fresh Juices,5.0,3,5.0,2026-02-22 22:56:00
+TX-00797,CUST-145,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-11 19:06:00
+TX-00798,CUST-174,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-03-25 14:10:00
+TX-00799,CUST-110,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-05 16:01:00
+TX-00800,CUST-134,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-01-14 09:21:00
+TX-00801,CUST-149,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-21 09:35:00
+TX-00802,CUST-144,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-18 22:45:00
+TX-00803,CUST-156,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-25 12:38:00
+TX-00804,CUST-121,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-07 10:21:00
+TX-00805,CUST-125,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-22 15:42:00
+TX-00806,CUST-139,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-31 10:03:00
+TX-00807,CUST-174,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-12 22:09:00
+TX-00808,CUST-147,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-01 20:05:00
+TX-00809,CUST-185,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-22 22:12:00
+TX-00810,CUST-104,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-27 12:40:00
+TX-00811,CUST-111,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-02 10:19:00
+TX-00812,CUST-161,prod-7,Detox Green Juice,Fresh Juices,5.0,2,5.0,2026-03-04 15:05:00
+TX-00813,CUST-124,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-17 19:23:00
+TX-00814,CUST-158,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-06 15:28:00
+TX-00815,CUST-134,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-29 15:36:00
+TX-00816,CUST-120,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-31 10:05:00
+TX-00817,CUST-145,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-11 20:48:00
+TX-00818,CUST-130,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-12 08:53:00
+TX-00819,CUST-167,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-23 22:36:00
+TX-00820,CUST-161,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,4.0,2026-02-08 09:25:00
+TX-00821,CUST-165,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,5.0,2026-03-15 11:07:00
+TX-00822,CUST-123,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-01-22 13:51:00
+TX-00823,CUST-117,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-06 20:05:00
+TX-00824,CUST-156,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-26 11:53:00
+TX-00825,CUST-141,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-09 09:24:00
+TX-00826,CUST-151,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-12 17:54:00
+TX-00827,CUST-167,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-28 07:50:00
+TX-00828,CUST-180,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-03-17 20:07:00
+TX-00829,CUST-120,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-01-19 10:59:00
+TX-00830,CUST-173,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-13 16:55:00
+TX-00831,CUST-145,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-22 15:24:00
+TX-00832,CUST-163,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-15 22:02:00
+TX-00833,CUST-136,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,5.0,2026-02-21 11:39:00
+TX-00834,CUST-105,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-02-20 17:44:00
+TX-00835,CUST-107,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-02 15:57:00
+TX-00836,CUST-103,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-02-13 16:19:00
+TX-00837,CUST-163,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-31 10:55:00
+TX-00838,CUST-118,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-02-08 21:49:00
+TX-00839,CUST-135,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-23 09:12:00
+TX-00840,CUST-128,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-22 22:48:00
+TX-00841,CUST-148,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,5.0,2026-01-08 12:04:00
+TX-00842,CUST-191,prod-7,Detox Green Juice,Fresh Juices,5.0,2,4.0,2026-03-06 19:08:00
+TX-00843,CUST-123,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-01-25 13:53:00
+TX-00844,CUST-132,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-05 21:03:00
+TX-00845,CUST-191,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-26 15:23:00
+TX-00846,CUST-165,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-20 10:43:00
+TX-00847,CUST-131,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-17 22:38:00
+TX-00848,CUST-123,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-02 18:22:00
+TX-00849,CUST-134,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-30 09:18:00
+TX-00850,CUST-150,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-07 12:54:00
+TX-00851,CUST-200,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-28 14:41:00
+TX-00852,CUST-187,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-27 15:41:00
+TX-00853,CUST-166,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-03 07:30:00
+TX-00854,CUST-183,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-23 07:14:00
+TX-00855,CUST-178,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-02-09 15:27:00
+TX-00856,CUST-145,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-28 15:13:00
+TX-00857,CUST-139,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-03-28 19:37:00
+TX-00858,CUST-101,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,5.0,2026-03-07 18:35:00
+TX-00859,CUST-139,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-29 10:30:00
+TX-00860,CUST-144,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-02-05 17:55:00
+TX-00861,CUST-134,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-25 16:12:00
+TX-00862,CUST-167,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-31 08:51:00
+TX-00863,CUST-152,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-26 17:43:00
+TX-00864,CUST-193,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,5.0,2026-01-04 22:18:00
+TX-00865,CUST-154,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-21 19:47:00
+TX-00866,CUST-175,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-15 13:21:00
+TX-00867,CUST-192,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-29 22:58:00
+TX-00868,CUST-146,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-06 16:54:00
+TX-00869,CUST-185,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-13 12:18:00
+TX-00870,CUST-161,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-17 15:46:00
+TX-00871,CUST-198,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-24 17:41:00
+TX-00872,CUST-129,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-15 14:47:00
+TX-00873,CUST-154,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-12 18:16:00
+TX-00874,CUST-138,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-01 10:30:00
+TX-00875,CUST-182,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-16 09:30:00
+TX-00876,CUST-165,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-16 19:33:00
+TX-00877,CUST-153,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-07 11:08:00
+TX-00878,CUST-144,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-02-22 21:09:00
+TX-00879,CUST-192,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-01-24 09:31:00
+TX-00880,CUST-181,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-23 17:40:00
+TX-00881,CUST-101,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-02-27 15:13:00
+TX-00882,CUST-174,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-21 22:50:00
+TX-00883,CUST-117,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-20 20:40:00
+TX-00884,CUST-152,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-24 22:24:00
+TX-00885,CUST-105,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-03-10 13:46:00
+TX-00886,CUST-102,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-11 13:01:00
+TX-00887,CUST-101,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-03-22 14:14:00
+TX-00888,CUST-140,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-17 10:24:00
+TX-00889,CUST-176,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-02-09 12:04:00
+TX-00890,CUST-139,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-02-07 21:46:00
+TX-00891,CUST-156,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-03-29 11:21:00
+TX-00892,CUST-146,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-25 12:58:00
+TX-00893,CUST-103,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,4.0,2026-01-30 14:46:00
+TX-00894,CUST-128,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-03 12:07:00
+TX-00895,CUST-192,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-25 08:24:00
+TX-00896,CUST-133,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-10 08:38:00
+TX-00897,CUST-185,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-01-14 07:03:00
+TX-00898,CUST-115,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-23 21:24:00
+TX-00899,CUST-171,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-02 22:44:00
+TX-00900,CUST-127,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-30 07:19:00
+TX-00901,CUST-185,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-01-13 15:39:00
+TX-00902,CUST-190,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-18 20:53:00
+TX-00903,CUST-166,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-21 10:18:00
+TX-00904,CUST-114,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-03-05 13:38:00
+TX-00905,CUST-200,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-03 13:22:00
+TX-00906,CUST-153,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-07 12:02:00
+TX-00907,CUST-164,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-27 22:21:00
+TX-00908,CUST-101,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,4.0,2026-01-02 09:58:00
+TX-00909,CUST-174,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-27 22:09:00
+TX-00910,CUST-200,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-07 09:46:00
+TX-00911,CUST-113,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-02 14:29:00
+TX-00912,CUST-134,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-01 08:06:00
+TX-00913,CUST-106,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-07 18:51:00
+TX-00914,CUST-141,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,4.0,2026-02-24 10:06:00
+TX-00915,CUST-102,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-18 12:21:00
+TX-00916,CUST-157,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-03-21 15:56:00
+TX-00917,CUST-112,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-17 17:11:00
+TX-00918,CUST-152,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-21 21:17:00
+TX-00919,CUST-189,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-03 20:41:00
+TX-00920,CUST-115,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-17 08:54:00
+TX-00921,CUST-114,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-23 22:51:00
+TX-00922,CUST-187,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-26 12:39:00
+TX-00923,CUST-200,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-15 07:55:00
+TX-00924,CUST-194,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-17 22:58:00
+TX-00925,CUST-115,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-22 21:02:00
+TX-00926,CUST-134,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-25 17:00:00
+TX-00927,CUST-187,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-03-09 14:42:00
+TX-00928,CUST-167,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-03-08 10:27:00
+TX-00929,CUST-194,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-02-01 22:22:00
+TX-00930,CUST-187,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-24 19:09:00
+TX-00931,CUST-179,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-07 07:41:00
+TX-00932,CUST-165,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-02 22:55:00
+TX-00933,CUST-110,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,5.0,2026-03-04 17:15:00
+TX-00934,CUST-136,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-07 14:35:00
+TX-00935,CUST-149,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-21 14:05:00
+TX-00936,CUST-157,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-15 21:05:00
+TX-00937,CUST-158,prod-7,Detox Green Juice,Fresh Juices,5.0,2,4.0,2026-02-10 10:31:00
+TX-00938,CUST-114,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-21 20:02:00
+TX-00939,CUST-171,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-01 09:50:00
+TX-00940,CUST-180,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-23 16:56:00
+TX-00941,CUST-172,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-01-27 21:21:00
+TX-00942,CUST-107,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-29 21:21:00
+TX-00943,CUST-199,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-21 22:45:00
+TX-00944,CUST-147,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-27 10:06:00
+TX-00945,CUST-129,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,3,5.0,2026-01-01 17:22:00
+TX-00946,CUST-171,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-08 18:44:00
+TX-00947,CUST-106,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-01-22 22:08:00
+TX-00948,CUST-196,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-22 10:16:00
+TX-00949,CUST-126,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-25 10:59:00
+TX-00950,CUST-128,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-28 13:45:00
+TX-00951,CUST-114,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-23 08:59:00
+TX-00952,CUST-187,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-17 10:49:00
+TX-00953,CUST-159,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-26 11:31:00
+TX-00954,CUST-168,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-07 20:53:00
+TX-00955,CUST-162,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-07 12:44:00
+TX-00956,CUST-123,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-01-17 10:24:00
+TX-00957,CUST-165,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-02-19 20:38:00
+TX-00958,CUST-198,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-01 15:25:00
+TX-00959,CUST-138,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-27 11:08:00
+TX-00960,CUST-178,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-31 16:53:00
+TX-00961,CUST-171,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-10 13:12:00
+TX-00962,CUST-180,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-07 18:58:00
+TX-00963,CUST-117,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-25 12:32:00
+TX-00964,CUST-189,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-23 17:45:00
+TX-00965,CUST-198,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-15 22:37:00
+TX-00966,CUST-186,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-23 16:56:00
+TX-00967,CUST-102,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-08 10:01:00
+TX-00968,CUST-119,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-07 08:12:00
+TX-00969,CUST-197,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-01-21 16:43:00
+TX-00970,CUST-119,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-08 16:13:00
+TX-00971,CUST-105,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-15 21:06:00
+TX-00972,CUST-187,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-13 14:47:00
+TX-00973,CUST-172,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-19 14:32:00
+TX-00974,CUST-137,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-03-30 08:59:00
+TX-00975,CUST-150,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-23 17:35:00
+TX-00976,CUST-102,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-02 13:39:00
+TX-00977,CUST-129,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-23 18:48:00
+TX-00978,CUST-170,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,4.0,2026-03-19 13:49:00
+TX-00979,CUST-138,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-27 12:43:00
+TX-00980,CUST-124,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-23 10:24:00
+TX-00981,CUST-155,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-05 15:08:00
+TX-00982,CUST-175,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-02 07:21:00
+TX-00983,CUST-191,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-20 08:09:00
+TX-00984,CUST-177,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-07 16:31:00
+TX-00985,CUST-171,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-15 09:50:00
+TX-00986,CUST-141,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-03-09 14:11:00
+TX-00987,CUST-165,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-21 20:34:00
+TX-00988,CUST-152,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,4.0,2026-01-12 18:14:00
+TX-00989,CUST-185,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-12 17:23:00
+TX-00990,CUST-128,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-03-21 22:35:00
+TX-00991,CUST-115,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-27 18:28:00
+TX-00992,CUST-183,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-20 14:02:00
+TX-00993,CUST-142,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-18 10:24:00
+TX-00994,CUST-170,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-06 07:58:00
+TX-00995,CUST-199,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-17 21:31:00
+TX-00996,CUST-138,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-25 13:20:00
+TX-00997,CUST-111,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-13 12:49:00
+TX-00998,CUST-169,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-01-01 09:13:00
+TX-00999,CUST-181,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-28 20:53:00
+TX-01000,CUST-127,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-10 20:41:00
+TX-01001,CUST-196,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-29 11:01:00
+TX-01002,CUST-192,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-02-12 08:05:00
+TX-01003,CUST-107,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-23 15:35:00
+TX-01004,CUST-174,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-30 15:26:00
+TX-01005,CUST-158,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-22 19:27:00
+TX-01006,CUST-103,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-19 10:34:00
+TX-01007,CUST-183,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-21 09:48:00
+TX-01008,CUST-175,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-06 09:22:00
+TX-01009,CUST-114,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,4.0,2026-02-07 16:38:00
+TX-01010,CUST-137,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-26 19:25:00
+TX-01011,CUST-104,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-02 12:34:00
+TX-01012,CUST-118,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-20 16:40:00
+TX-01013,CUST-139,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-28 18:00:00
+TX-01014,CUST-172,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,3,4.0,2026-01-19 10:02:00
+TX-01015,CUST-174,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-03-18 19:34:00
+TX-01016,CUST-111,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-09 13:47:00
+TX-01017,CUST-193,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,4.0,2026-02-14 13:26:00
+TX-01018,CUST-121,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-01-24 14:39:00
+TX-01019,CUST-125,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-15 12:42:00
+TX-01020,CUST-107,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-03-12 21:41:00
+TX-01021,CUST-110,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-07 09:16:00
+TX-01022,CUST-126,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-03-16 22:21:00
+TX-01023,CUST-117,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-27 14:06:00
+TX-01024,CUST-180,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-09 13:20:00
+TX-01025,CUST-158,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-02-12 16:44:00
+TX-01026,CUST-120,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-14 18:51:00
+TX-01027,CUST-155,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-01-22 07:20:00
+TX-01028,CUST-129,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-03-24 20:17:00
+TX-01029,CUST-118,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-28 17:56:00
+TX-01030,CUST-160,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-27 18:49:00
+TX-01031,CUST-163,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-12 10:11:00
+TX-01032,CUST-178,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-11 15:54:00
+TX-01033,CUST-169,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-26 15:46:00
+TX-01034,CUST-110,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-10 07:54:00
+TX-01035,CUST-181,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-04 19:49:00
+TX-01036,CUST-128,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-01-05 15:34:00
+TX-01037,CUST-161,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-03-25 11:23:00
+TX-01038,CUST-129,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,5.0,2026-03-17 16:08:00
+TX-01039,CUST-165,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-07 09:25:00
+TX-01040,CUST-165,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,5.0,2026-01-02 14:54:00
+TX-01041,CUST-188,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-22 11:28:00
+TX-01042,CUST-123,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,5.0,2026-03-14 11:47:00
+TX-01043,CUST-146,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-06 14:48:00
+TX-01044,CUST-130,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-09 15:23:00
+TX-01045,CUST-106,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-27 13:33:00
+TX-01046,CUST-150,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,3,4.0,2026-03-02 21:56:00
+TX-01047,CUST-106,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-03-25 17:06:00
+TX-01048,CUST-167,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-23 15:53:00
+TX-01049,CUST-134,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-03-16 12:24:00
+TX-01050,CUST-149,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-02-16 09:33:00
+TX-01051,CUST-149,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-01-29 19:22:00
+TX-01052,CUST-163,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-03-03 07:32:00
+TX-01053,CUST-157,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-22 14:04:00
+TX-01054,CUST-183,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-02-05 13:09:00
+TX-01055,CUST-121,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,4.0,2026-02-16 10:42:00
+TX-01056,CUST-154,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-12 10:30:00
+TX-01057,CUST-162,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-03 13:37:00
+TX-01058,CUST-183,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-22 07:15:00
+TX-01059,CUST-117,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-15 12:08:00
+TX-01060,CUST-166,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,4.0,2026-01-06 11:03:00
+TX-01061,CUST-134,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-24 19:38:00
+TX-01062,CUST-182,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-03 16:05:00
+TX-01063,CUST-158,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-19 22:55:00
+TX-01064,CUST-122,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-29 20:38:00
+TX-01065,CUST-175,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-24 15:10:00
+TX-01066,CUST-188,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-13 21:38:00
+TX-01067,CUST-109,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-01-30 19:24:00
+TX-01068,CUST-114,prod-7,Detox Green Juice,Fresh Juices,5.0,2,5.0,2026-01-03 13:33:00
+TX-01069,CUST-120,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-19 10:11:00
+TX-01070,CUST-179,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-18 08:56:00
+TX-01071,CUST-112,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-03 11:57:00
+TX-01072,CUST-170,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-01 20:33:00
+TX-01073,CUST-148,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-01-06 20:14:00
+TX-01074,CUST-199,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-18 18:37:00
+TX-01075,CUST-198,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,4.0,2026-03-31 10:27:00
+TX-01076,CUST-133,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-03 14:58:00
+TX-01077,CUST-137,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-03-18 20:16:00
+TX-01078,CUST-101,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-01 10:33:00
+TX-01079,CUST-149,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-25 13:44:00
+TX-01080,CUST-153,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-16 10:09:00
+TX-01081,CUST-184,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-03-16 15:16:00
+TX-01082,CUST-155,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-03-14 18:39:00
+TX-01083,CUST-188,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,3,5.0,2026-02-20 13:26:00
+TX-01084,CUST-123,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-17 22:16:00
+TX-01085,CUST-174,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-14 19:47:00
+TX-01086,CUST-185,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-01-16 14:28:00
+TX-01087,CUST-121,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-13 13:32:00
+TX-01088,CUST-144,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-03-12 08:10:00
+TX-01089,CUST-182,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-01 09:52:00
+TX-01090,CUST-161,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-03-18 20:05:00
+TX-01091,CUST-134,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-29 18:05:00
+TX-01092,CUST-105,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-19 19:39:00
+TX-01093,CUST-167,prod-7,Detox Green Juice,Fresh Juices,5.0,2,4.0,2026-02-06 08:49:00
+TX-01094,CUST-182,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-05 21:00:00
+TX-01095,CUST-185,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-03-08 16:12:00
+TX-01096,CUST-177,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,4.0,2026-03-07 14:39:00
+TX-01097,CUST-187,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-05 18:15:00
+TX-01098,CUST-101,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-21 09:17:00
+TX-01099,CUST-146,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-03-27 19:25:00
+TX-01100,CUST-167,prod-7,Detox Green Juice,Fresh Juices,5.0,1,3.0,2026-01-02 09:58:00
+TX-01101,CUST-171,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-02-06 18:22:00
+TX-01102,CUST-129,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-03-19 13:29:00
+TX-01103,CUST-174,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-01-01 15:11:00
+TX-01104,CUST-165,prod-3,Electrolyte Spark Hydration,Hydration,3.25,2,5.0,2026-01-14 09:32:00
+TX-01105,CUST-144,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,2,5.0,2026-01-15 15:56:00
+TX-01106,CUST-189,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-26 19:36:00
+TX-01107,CUST-199,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,3,5.0,2026-02-01 17:49:00
+TX-01108,CUST-188,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-28 07:30:00
+TX-01109,CUST-134,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-09 19:40:00
+TX-01110,CUST-187,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-31 14:51:00
+TX-01111,CUST-153,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-02-15 07:44:00
+TX-01112,CUST-132,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-06 09:25:00
+TX-01113,CUST-196,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-13 09:35:00
+TX-01114,CUST-161,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,5.0,2026-02-10 18:13:00
+TX-01115,CUST-135,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-24 13:31:00
+TX-01116,CUST-126,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-31 14:55:00
+TX-01117,CUST-127,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,4.0,2026-01-30 13:53:00
+TX-01118,CUST-180,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-15 11:49:00
+TX-01119,CUST-116,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-11 22:39:00
+TX-01120,CUST-198,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-11 08:54:00
+TX-01121,CUST-148,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,5.0,2026-03-21 17:31:00
+TX-01122,CUST-136,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,3,5.0,2026-03-04 12:48:00
+TX-01123,CUST-151,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-01-29 11:03:00
+TX-01124,CUST-155,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-03-03 08:32:00
+TX-01125,CUST-151,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-29 12:29:00
+TX-01126,CUST-190,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,4.0,2026-03-08 21:20:00
+TX-01127,CUST-102,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,4.0,2026-03-28 13:24:00
+TX-01128,CUST-142,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-16 15:11:00
+TX-01129,CUST-134,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-31 15:30:00
+TX-01130,CUST-144,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-16 12:31:00
+TX-01131,CUST-127,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-02-23 18:23:00
+TX-01132,CUST-136,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-27 12:36:00
+TX-01133,CUST-174,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-03-29 14:52:00
+TX-01134,CUST-193,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-02-04 14:35:00
+TX-01135,CUST-149,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-26 11:51:00
+TX-01136,CUST-120,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-03-02 07:11:00
+TX-01137,CUST-164,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-18 17:50:00
+TX-01138,CUST-139,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-02-02 08:25:00
+TX-01139,CUST-189,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-21 08:13:00
+TX-01140,CUST-161,prod-7,Detox Green Juice,Fresh Juices,5.0,1,5.0,2026-03-22 10:28:00
+TX-01141,CUST-143,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-02-03 18:23:00
+TX-01142,CUST-172,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-02-02 18:01:00
+TX-01143,CUST-116,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-14 13:36:00
+TX-01144,CUST-184,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-25 12:49:00
+TX-01145,CUST-146,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-02-11 22:49:00
+TX-01146,CUST-158,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-01-11 19:39:00
+TX-01147,CUST-160,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-03-22 11:55:00
+TX-01148,CUST-182,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-13 20:40:00
+TX-01149,CUST-174,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-21 09:05:00
+TX-01150,CUST-144,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-30 17:20:00
+TX-01151,CUST-138,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-02-04 19:17:00
+TX-01152,CUST-200,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-02-16 21:26:00
+TX-01153,CUST-124,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-01-03 11:46:00
+TX-01154,CUST-185,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-02-02 09:13:00
+TX-01155,CUST-151,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-14 10:04:00
+TX-01156,CUST-171,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,2,5.0,2026-01-07 07:49:00
+TX-01157,CUST-168,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-11 10:16:00
+TX-01158,CUST-120,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,3.0,2026-01-11 19:19:00
+TX-01159,CUST-132,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-02-06 21:40:00
+TX-01160,CUST-117,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-03-09 12:01:00
+TX-01161,CUST-185,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-02-15 17:55:00
+TX-01162,CUST-160,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,4.0,2026-03-11 15:35:00
+TX-01163,CUST-118,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,2,5.0,2026-03-31 12:37:00
+TX-01164,CUST-181,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,5.0,2026-03-23 20:33:00
+TX-01165,CUST-182,prod-7,Detox Green Juice,Fresh Juices,5.0,1,4.0,2026-03-10 16:58:00
+TX-01166,CUST-162,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-03-11 14:51:00
+TX-01167,CUST-157,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-09 18:26:00
+TX-01168,CUST-120,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-02-08 07:00:00
+TX-01169,CUST-198,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-18 18:18:00
+TX-01170,CUST-169,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-02 22:48:00
+TX-01171,CUST-139,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-01-02 20:51:00
+TX-01172,CUST-177,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-01-30 07:35:00
+TX-01173,CUST-125,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-22 20:25:00
+TX-01174,CUST-121,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-03-24 19:53:00
+TX-01175,CUST-129,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-02-03 09:27:00
+TX-01176,CUST-131,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,5.0,2026-03-08 15:18:00
+TX-01177,CUST-153,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,2,4.0,2026-01-25 09:11:00
+TX-01178,CUST-138,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-15 21:39:00
+TX-01179,CUST-135,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,4.0,2026-03-31 22:12:00
+TX-01180,CUST-103,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,3.0,2026-01-20 08:34:00
+TX-01181,CUST-124,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,3.0,2026-01-14 16:17:00
+TX-01182,CUST-192,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-02-26 07:14:00
+TX-01183,CUST-120,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-02 22:13:00
+TX-01184,CUST-154,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,4.0,2026-02-09 22:23:00
+TX-01185,CUST-190,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-01-05 17:05:00
+TX-01186,CUST-108,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,2,5.0,2026-02-04 19:04:00
+TX-01187,CUST-124,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-01-25 15:52:00
+TX-01188,CUST-102,prod-4,Dark Chocolate Almond Bar,Snacks,2.75,1,4.0,2026-01-16 14:24:00
+TX-01189,CUST-132,prod-1,Nitro Cold Brew,Coffee & Tea,4.5,1,5.0,2026-01-05 13:29:00
+TX-01190,CUST-199,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,4.0,2026-01-13 13:30:00
+TX-01191,CUST-188,prod-6,Organic Protein Crunch Bar,Snacks,3.5,2,4.0,2026-02-09 17:10:00
+TX-01192,CUST-196,prod-8,Mango Passion Kombucha,Fresh Juices,4.25,1,4.0,2026-03-12 10:16:00
+TX-01193,CUST-182,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,3.0,2026-02-08 13:23:00
+TX-01194,CUST-186,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,5.0,2026-01-28 10:15:00
+TX-01195,CUST-156,prod-5,Dragonfruit Sparkling Water,Hydration,2.5,1,4.0,2026-02-11 07:10:00
+TX-01196,CUST-175,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,3.0,2026-01-16 19:50:00
+TX-01197,CUST-102,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-06 22:44:00
+TX-01198,CUST-120,prod-6,Organic Protein Crunch Bar,Snacks,3.5,1,3.0,2026-02-17 09:15:00
+TX-01199,CUST-164,prod-2,Matcha Green Tea Latte,Coffee & Tea,4.0,1,5.0,2026-01-12 17:59:00
+TX-01200,CUST-108,prod-3,Electrolyte Spark Hydration,Hydration,3.25,1,3.0,2026-01-08 18:41:00

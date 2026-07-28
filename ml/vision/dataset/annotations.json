@@ -1,0 +1,4852 @@
+[
+  {
+    "image_id": 1,
+    "filename": "slot_0001_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0001_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 2,
+    "filename": "slot_0002_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0002_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 3,
+    "filename": "slot_0003_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0003_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 4,
+    "filename": "slot_0004_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0004_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 5,
+    "filename": "slot_0005_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0005_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 6,
+    "filename": "slot_0006_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0006_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 7,
+    "filename": "slot_0007_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0007_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 8,
+    "filename": "slot_0008_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0008_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 9,
+    "filename": "slot_0009_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0009_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 10,
+    "filename": "slot_0010_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0010_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 11,
+    "filename": "slot_0011_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0011_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 12,
+    "filename": "slot_0012_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0012_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 13,
+    "filename": "slot_0013_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0013_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 14,
+    "filename": "slot_0014_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0014_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 15,
+    "filename": "slot_0015_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0015_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 16,
+    "filename": "slot_0016_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0016_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 17,
+    "filename": "slot_0017_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0017_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 18,
+    "filename": "slot_0018_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0018_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 19,
+    "filename": "slot_0019_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0019_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 20,
+    "filename": "slot_0020_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0020_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 21,
+    "filename": "slot_0021_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0021_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 22,
+    "filename": "slot_0022_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0022_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 23,
+    "filename": "slot_0023_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0023_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 24,
+    "filename": "slot_0024_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0024_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 25,
+    "filename": "slot_0025_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0025_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 26,
+    "filename": "slot_0026_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0026_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 27,
+    "filename": "slot_0027_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0027_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 28,
+    "filename": "slot_0028_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0028_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 29,
+    "filename": "slot_0029_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0029_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 30,
+    "filename": "slot_0030_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0030_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 31,
+    "filename": "slot_0031_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0031_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 32,
+    "filename": "slot_0032_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0032_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 33,
+    "filename": "slot_0033_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0033_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 34,
+    "filename": "slot_0034_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0034_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 35,
+    "filename": "slot_0035_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0035_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 36,
+    "filename": "slot_0036_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0036_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 37,
+    "filename": "slot_0037_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0037_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 38,
+    "filename": "slot_0038_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0038_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 39,
+    "filename": "slot_0039_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0039_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 40,
+    "filename": "slot_0040_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0040_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 41,
+    "filename": "slot_0041_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0041_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 42,
+    "filename": "slot_0042_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0042_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 43,
+    "filename": "slot_0043_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0043_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 44,
+    "filename": "slot_0044_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0044_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 45,
+    "filename": "slot_0045_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0045_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 46,
+    "filename": "slot_0046_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0046_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 47,
+    "filename": "slot_0047_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0047_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 48,
+    "filename": "slot_0048_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0048_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 49,
+    "filename": "slot_0049_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0049_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 50,
+    "filename": "slot_0050_empty.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0050_empty.png",
+    "fill_level": "EMPTY",
+    "item_count_estimate": 0,
+    "bboxes": []
+  },
+  {
+    "image_id": 51,
+    "filename": "slot_0051_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0051_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          62,
+          183,
+          94,
+          264
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          219,
+          171,
+          252,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 52,
+    "filename": "slot_0052_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0052_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          74,
+          177,
+          106,
+          258
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          228,
+          174,
+          267,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 53,
+    "filename": "slot_0053_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0053_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          75,
+          185,
+          106,
+          264
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          214,
+          168,
+          248,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 54,
+    "filename": "slot_0054_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0054_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          64,
+          185,
+          101,
+          255
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          220,
+          173,
+          260,
+          250
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 55,
+    "filename": "slot_0055_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0055_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          69,
+          179,
+          100,
+          258
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          148,
+          179,
+          187,
+          254
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          226,
+          162,
+          261,
+          251
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 56,
+    "filename": "slot_0056_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0056_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          69,
+          176,
+          101,
+          258
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          136,
+          167,
+          170,
+          253
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          222,
+          161,
+          264,
+          241
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 57,
+    "filename": "slot_0057_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0057_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          70,
+          179,
+          103,
+          262
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          210,
+          171,
+          250,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 58,
+    "filename": "slot_0058_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0058_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          72,
+          186,
+          109,
+          256
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          219,
+          174,
+          252,
+          256
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 59,
+    "filename": "slot_0059_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0059_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          59,
+          188,
+          97,
+          261
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          133,
+          173,
+          174,
+          251
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          232,
+          159,
+          267,
+          247
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 60,
+    "filename": "slot_0060_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0060_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          68,
+          187,
+          107,
+          261
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 61,
+    "filename": "slot_0061_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0061_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          70,
+          177,
+          101,
+          255
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          220,
+          174,
+          259,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 62,
+    "filename": "slot_0062_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0062_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          56,
+          182,
+          89,
+          264
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 63,
+    "filename": "slot_0063_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0063_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          55,
+          182,
+          93,
+          255
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          135,
+          174,
+          175,
+          250
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          225,
+          157,
+          262,
+          249
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 64,
+    "filename": "slot_0064_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0064_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          60,
+          180,
+          92,
+          260
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          150,
+          175,
+          190,
+          251
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          227,
+          157,
+          262,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 65,
+    "filename": "slot_0065_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0065_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          55,
+          185,
+          86,
+          264
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          213,
+          166,
+          247,
+          252
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 66,
+    "filename": "slot_0066_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0066_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          56,
+          175,
+          89,
+          257
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 67,
+    "filename": "slot_0067_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0067_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          61,
+          180,
+          93,
+          261
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          147,
+          172,
+          188,
+          249
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          227,
+          168,
+          269,
+          247
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 68,
+    "filename": "slot_0068_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0068_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          58,
+          182,
+          95,
+          252
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          225,
+          172,
+          258,
+          256
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 69,
+    "filename": "slot_0069_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0069_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          56,
+          178,
+          87,
+          256
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          144,
+          167,
+          177,
+          251
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          230,
+          163,
+          265,
+          251
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 70,
+    "filename": "slot_0070_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0070_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          68,
+          178,
+          101,
+          260
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          228,
+          175,
+          261,
+          258
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 71,
+    "filename": "slot_0071_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0071_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          54,
+          176,
+          87,
+          259
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          137,
+          172,
+          177,
+          248
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          218,
+          160,
+          255,
+          252
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 72,
+    "filename": "slot_0072_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0072_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          55,
+          183,
+          86,
+          262
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          227,
+          170,
+          261,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 73,
+    "filename": "slot_0073_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0073_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          70,
+          179,
+          101,
+          257
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          135,
+          175,
+          168,
+          257
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          210,
+          160,
+          252,
+          241
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 74,
+    "filename": "slot_0074_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0074_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          59,
+          175,
+          92,
+          258
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          138,
+          166,
+          172,
+          252
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          217,
+          167,
+          258,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 75,
+    "filename": "slot_0075_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0075_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          69,
+          180,
+          107,
+          252
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 76,
+    "filename": "slot_0076_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0076_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          73,
+          185,
+          104,
+          264
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          137,
+          176,
+          176,
+          251
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          216,
+          159,
+          252,
+          249
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 77,
+    "filename": "slot_0077_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0077_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          51,
+          187,
+          89,
+          259
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 78,
+    "filename": "slot_0078_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0078_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          57,
+          185,
+          88,
+          264
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 79,
+    "filename": "slot_0079_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0079_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          65,
+          176,
+          98,
+          258
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 80,
+    "filename": "slot_0080_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0080_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          59,
+          182,
+          92,
+          264
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          223,
+          175,
+          256,
+          257
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 81,
+    "filename": "slot_0081_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0081_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          63,
+          176,
+          96,
+          259
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          141,
+          166,
+          176,
+          253
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          226,
+          163,
+          268,
+          242
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 82,
+    "filename": "slot_0082_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0082_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          64,
+          179,
+          96,
+          260
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 83,
+    "filename": "slot_0083_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0083_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          71,
+          184,
+          102,
+          263
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          214,
+          166,
+          248,
+          252
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 84,
+    "filename": "slot_0084_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0084_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          56,
+          177,
+          87,
+          256
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          231,
+          175,
+          270,
+          249
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 85,
+    "filename": "slot_0085_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0085_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          68,
+          186,
+          99,
+          263
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          138,
+          175,
+          171,
+          257
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          231,
+          164,
+          266,
+          252
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 86,
+    "filename": "slot_0086_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0086_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          63,
+          180,
+          96,
+          263
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 87,
+    "filename": "slot_0087_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0087_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          65,
+          179,
+          97,
+          260
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 88,
+    "filename": "slot_0088_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0088_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          62,
+          187,
+          101,
+          261
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 89,
+    "filename": "slot_0089_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0089_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          58,
+          178,
+          91,
+          260
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          139,
+          173,
+          172,
+          255
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          222,
+          161,
+          258,
+          252
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 90,
+    "filename": "slot_0090_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0090_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          62,
+          181,
+          93,
+          259
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          136,
+          171,
+          171,
+          258
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          225,
+          164,
+          266,
+          243
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 91,
+    "filename": "slot_0091_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0091_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          64,
+          180,
+          95,
+          259
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          220,
+          172,
+          253,
+          256
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 92,
+    "filename": "slot_0092_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0092_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          59,
+          185,
+          97,
+          257
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 93,
+    "filename": "slot_0093_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0093_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          71,
+          180,
+          104,
+          263
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          141,
+          168,
+          175,
+          253
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          213,
+          156,
+          249,
+          246
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 94,
+    "filename": "slot_0094_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0094_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          61,
+          186,
+          99,
+          258
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          136,
+          171,
+          171,
+          258
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          220,
+          155,
+          256,
+          246
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 95,
+    "filename": "slot_0095_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0095_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          72,
+          180,
+          103,
+          259
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          143,
+          170,
+          177,
+          256
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          218,
+          169,
+          260,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 96,
+    "filename": "slot_0096_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0096_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 2,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          66,
+          180,
+          98,
+          261
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          226,
+          171,
+          260,
+          257
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 97,
+    "filename": "slot_0097_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0097_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          72,
+          180,
+          104,
+          260
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          131,
+          175,
+          170,
+          250
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          227,
+          165,
+          269,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 98,
+    "filename": "slot_0098_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0098_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 3,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          60,
+          184,
+          92,
+          264
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          139,
+          167,
+          172,
+          251
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          233,
+          162,
+          268,
+          249
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 99,
+    "filename": "slot_0099_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0099_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          63,
+          178,
+          95,
+          260
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 100,
+    "filename": "slot_0100_half.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0100_half.png",
+    "fill_level": "HALF",
+    "item_count_estimate": 1,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          52,
+          182,
+          91,
+          256
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 101,
+    "filename": "slot_0101_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0101_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          65,
+          185,
+          104,
+          259
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          112,
+          172,
+          146,
+          257
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          162,
+          154,
+          198,
+          246
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          215,
+          152,
+          252,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 102,
+    "filename": "slot_0102_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0102_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          71,
+          184,
+          102,
+          262
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          86,
+          178,
+          125,
+          252
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          132,
+          163,
+          168,
+          253
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          158,
+          158,
+          202,
+          242
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          189,
+          141,
+          236,
+          231
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          223,
+          128,
+          265,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 103,
+    "filename": "slot_0103_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0103_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          62,
+          184,
+          94,
+          264
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          94,
+          174,
+          127,
+          257
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          120,
+          165,
+          162,
+          244
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          146,
+          153,
+          190,
+          236
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          179,
+          144,
+          225,
+          231
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          220,
+          132,
+          261,
+          236
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 104,
+    "filename": "slot_0104_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0104_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          64,
+          185,
+          103,
+          259
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          106,
+          172,
+          140,
+          257
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          167,
+          160,
+          203,
+          252
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          221,
+          157,
+          266,
+          243
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 105,
+    "filename": "slot_0105_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0105_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          59,
+          188,
+          96,
+          258
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          101,
+          166,
+          134,
+          250
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          128,
+          156,
+          164,
+          248
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          164,
+          159,
+          207,
+          241
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          193,
+          141,
+          239,
+          228
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          214,
+          132,
+          255,
+          234
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 106,
+    "filename": "slot_0106_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0106_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          64,
+          179,
+          96,
+          259
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          105,
+          169,
+          139,
+          255
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          142,
+          163,
+          185,
+          245
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          172,
+          154,
+          208,
+          246
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          217,
+          135,
+          257,
+          236
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 107,
+    "filename": "slot_0107_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0107_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          55,
+          180,
+          86,
+          259
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          123,
+          173,
+          162,
+          248
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          161,
+          158,
+          197,
+          248
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          222,
+          147,
+          260,
+          242
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 108,
+    "filename": "slot_0108_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0108_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          57,
+          177,
+          90,
+          260
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          100,
+          169,
+          141,
+          247
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          128,
+          160,
+          165,
+          252
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          150,
+          149,
+          187,
+          241
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          183,
+          140,
+          231,
+          230
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          211,
+          129,
+          252,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 109,
+    "filename": "slot_0109_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0109_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          56,
+          184,
+          88,
+          265
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          107,
+          174,
+          140,
+          257
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          149,
+          167,
+          192,
+          248
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          176,
+          152,
+          215,
+          249
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          226,
+          147,
+          273,
+          237
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 110,
+    "filename": "slot_0110_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0110_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          73,
+          181,
+          104,
+          260
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          95,
+          169,
+          130,
+          256
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          143,
+          167,
+          185,
+          246
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          182,
+          147,
+          219,
+          241
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          215,
+          145,
+          261,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 111,
+    "filename": "slot_0111_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0111_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          63,
+          186,
+          94,
+          263
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          84,
+          173,
+          125,
+          250
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          133,
+          158,
+          169,
+          249
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          162,
+          151,
+          200,
+          247
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          188,
+          138,
+          227,
+          237
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          215,
+          135,
+          264,
+          228
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 112,
+    "filename": "slot_0112_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0112_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          68,
+          185,
+          99,
+          264
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          108,
+          170,
+          141,
+          254
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          136,
+          159,
+          171,
+          248
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          189,
+          148,
+          226,
+          241
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          225,
+          138,
+          265,
+          239
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 113,
+    "filename": "slot_0113_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0113_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          73,
+          179,
+          106,
+          262
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          92,
+          171,
+          125,
+          254
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          125,
+          155,
+          161,
+          246
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          151,
+          149,
+          197,
+          236
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          187,
+          136,
+          227,
+          236
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          220,
+          130,
+          270,
+          225
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 114,
+    "filename": "slot_0114_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0114_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          69,
+          183,
+          101,
+          263
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          91,
+          173,
+          132,
+          251
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          136,
+          157,
+          171,
+          246
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          190,
+          146,
+          227,
+          239
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          229,
+          140,
+          267,
+          237
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 115,
+    "filename": "slot_0115_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0115_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          71,
+          182,
+          103,
+          263
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          122,
+          173,
+          163,
+          250
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          169,
+          168,
+          211,
+          247
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          224,
+          149,
+          262,
+          244
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 116,
+    "filename": "slot_0116_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0116_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          57,
+          179,
+          89,
+          260
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          85,
+          173,
+          124,
+          248
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          116,
+          163,
+          157,
+          241
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          167,
+          153,
+          204,
+          246
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          184,
+          143,
+          231,
+          233
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          211,
+          126,
+          253,
+          232
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 117,
+    "filename": "slot_0117_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0117_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          69,
+          184,
+          107,
+          255
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          92,
+          167,
+          127,
+          254
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          121,
+          158,
+          156,
+          245
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          153,
+          154,
+          197,
+          238
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          183,
+          145,
+          231,
+          236
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          223,
+          137,
+          272,
+          230
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 118,
+    "filename": "slot_0118_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0118_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          67,
+          181,
+          99,
+          262
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          108,
+          167,
+          143,
+          255
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          176,
+          154,
+          213,
+          247
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          219,
+          144,
+          257,
+          240
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 119,
+    "filename": "slot_0119_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0119_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          70,
+          182,
+          103,
+          265
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          108,
+          176,
+          148,
+          253
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          135,
+          163,
+          170,
+          252
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          181,
+          145,
+          219,
+          242
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          220,
+          147,
+          266,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 120,
+    "filename": "slot_0120_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0120_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          56,
+          184,
+          87,
+          262
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          92,
+          170,
+          133,
+          248
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          129,
+          160,
+          172,
+          241
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          159,
+          157,
+          202,
+          239
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          189,
+          141,
+          229,
+          241
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          211,
+          128,
+          252,
+          231
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 121,
+    "filename": "slot_0121_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0121_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          69,
+          184,
+          100,
+          262
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          112,
+          168,
+          146,
+          254
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          149,
+          155,
+          185,
+          245
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          179,
+          146,
+          216,
+          240
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          231,
+          137,
+          270,
+          236
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 122,
+    "filename": "slot_0122_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0122_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          67,
+          185,
+          105,
+          256
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          108,
+          169,
+          142,
+          254
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          141,
+          162,
+          184,
+          244
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          176,
+          147,
+          213,
+          240
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          219,
+          144,
+          267,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 123,
+    "filename": "slot_0123_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0123_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          54,
+          179,
+          86,
+          261
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          108,
+          176,
+          149,
+          254
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          146,
+          168,
+          188,
+          247
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          189,
+          151,
+          226,
+          245
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          216,
+          137,
+          256,
+          237
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 124,
+    "filename": "slot_0124_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0124_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          55,
+          180,
+          87,
+          262
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          105,
+          170,
+          140,
+          258
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          152,
+          157,
+          188,
+          247
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          175,
+          152,
+          214,
+          249
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          210,
+          148,
+          256,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 125,
+    "filename": "slot_0125_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0125_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          58,
+          181,
+          91,
+          263
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          108,
+          172,
+          142,
+          259
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          168,
+          161,
+          204,
+          252
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          222,
+          153,
+          259,
+          247
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 126,
+    "filename": "slot_0126_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0126_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          70,
+          185,
+          101,
+          263
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          92,
+          168,
+          127,
+          256
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          118,
+          160,
+          155,
+          252
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          168,
+          146,
+          205,
+          240
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          188,
+          136,
+          226,
+          233
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          207,
+          134,
+          256,
+          226
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 127,
+    "filename": "slot_0127_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0127_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          61,
+          184,
+          93,
+          264
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          109,
+          173,
+          148,
+          247
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          167,
+          163,
+          209,
+          243
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          216,
+          148,
+          253,
+          242
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 128,
+    "filename": "slot_0128_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0128_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          59,
+          179,
+          98,
+          253
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          100,
+          179,
+          139,
+          253
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          140,
+          164,
+          183,
+          245
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          179,
+          151,
+          217,
+          247
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          219,
+          148,
+          265,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 129,
+    "filename": "slot_0129_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0129_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          65,
+          179,
+          98,
+          262
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          83,
+          177,
+          122,
+          252
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          117,
+          161,
+          153,
+          253
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          155,
+          151,
+          192,
+          244
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          197,
+          138,
+          237,
+          238
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          213,
+          124,
+          255,
+          230
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 130,
+    "filename": "slot_0130_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0130_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          64,
+          184,
+          95,
+          262
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          110,
+          166,
+          145,
+          253
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          172,
+          158,
+          207,
+          246
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          228,
+          150,
+          266,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 131,
+    "filename": "slot_0131_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0131_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          62,
+          182,
+          95,
+          265
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          116,
+          167,
+          150,
+          252
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          162,
+          157,
+          198,
+          249
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          224,
+          153,
+          261,
+          247
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 132,
+    "filename": "slot_0132_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0132_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          51,
+          184,
+          89,
+          256
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          104,
+          170,
+          138,
+          255
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          153,
+          161,
+          188,
+          249
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          183,
+          150,
+          228,
+          235
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          220,
+          137,
+          260,
+          237
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 133,
+    "filename": "slot_0133_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0133_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          64,
+          183,
+          95,
+          261
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          94,
+          168,
+          129,
+          256
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          135,
+          157,
+          171,
+          249
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          184,
+          152,
+          221,
+          246
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          227,
+          140,
+          267,
+          240
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 134,
+    "filename": "slot_0134_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0134_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          64,
+          181,
+          103,
+          254
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          120,
+          171,
+          153,
+          253
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          165,
+          163,
+          200,
+          252
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          222,
+          145,
+          261,
+          242
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 135,
+    "filename": "slot_0135_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0135_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          75,
+          182,
+          106,
+          260
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          91,
+          165,
+          126,
+          253
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          130,
+          156,
+          166,
+          247
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          168,
+          146,
+          204,
+          238
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          185,
+          136,
+          225,
+          237
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          212,
+          133,
+          253,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 136,
+    "filename": "slot_0136_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0136_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          61,
+          182,
+          100,
+          255
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          106,
+          169,
+          141,
+          256
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          163,
+          164,
+          198,
+          252
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          215,
+          146,
+          252,
+          238
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 137,
+    "filename": "slot_0137_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0137_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          73,
+          183,
+          104,
+          260
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          104,
+          172,
+          145,
+          249
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          161,
+          156,
+          197,
+          246
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          219,
+          158,
+          264,
+          243
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 138,
+    "filename": "slot_0138_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0138_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          61,
+          175,
+          93,
+          257
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          101,
+          170,
+          135,
+          255
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          114,
+          166,
+          157,
+          248
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          147,
+          156,
+          192,
+          242
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          181,
+          136,
+          220,
+          234
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          212,
+          127,
+          253,
+          230
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 139,
+    "filename": "slot_0139_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0139_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          69,
+          186,
+          106,
+          257
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          98,
+          174,
+          138,
+          250
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          129,
+          156,
+          165,
+          247
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          167,
+          152,
+          205,
+          248
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          187,
+          146,
+          235,
+          237
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          220,
+          132,
+          261,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 140,
+    "filename": "slot_0140_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0140_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          65,
+          183,
+          96,
+          262
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          114,
+          172,
+          155,
+          249
+        ]
+      },
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          160,
+          155,
+          196,
+          247
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          224,
+          145,
+          262,
+          241
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 141,
+    "filename": "slot_0141_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0141_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          68,
+          180,
+          106,
+          252
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          120,
+          175,
+          160,
+          252
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          169,
+          160,
+          205,
+          252
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          212,
+          149,
+          250,
+          244
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 142,
+    "filename": "slot_0142_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0142_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          73,
+          185,
+          104,
+          264
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          121,
+          168,
+          155,
+          255
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          176,
+          161,
+          211,
+          249
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          229,
+          147,
+          267,
+          243
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 143,
+    "filename": "slot_0143_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0143_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          74,
+          185,
+          105,
+          263
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          94,
+          167,
+          127,
+          250
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          126,
+          161,
+          161,
+          250
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          152,
+          152,
+          189,
+          244
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          195,
+          141,
+          241,
+          228
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          216,
+          130,
+          257,
+          234
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 144,
+    "filename": "slot_0144_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0144_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          65,
+          179,
+          97,
+          261
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          124,
+          166,
+          159,
+          253
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          163,
+          155,
+          199,
+          246
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          222,
+          156,
+          266,
+          240
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 145,
+    "filename": "slot_0145_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0145_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          62,
+          178,
+          94,
+          260
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          105,
+          173,
+          138,
+          256
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          150,
+          162,
+          186,
+          252
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          169,
+          153,
+          213,
+          237
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          212,
+          135,
+          251,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 146,
+    "filename": "slot_0146_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0146_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          63,
+          181,
+          94,
+          260
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          119,
+          177,
+          158,
+          251
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          175,
+          158,
+          211,
+          248
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          223,
+          146,
+          260,
+          240
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 147,
+    "filename": "slot_0147_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0147_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 4,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          67,
+          176,
+          99,
+          256
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          116,
+          172,
+          150,
+          257
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          175,
+          167,
+          217,
+          246
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          208,
+          156,
+          252,
+          239
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 148,
+    "filename": "slot_0148_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0148_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 5,
+    "bboxes": [
+      {
+        "label": "Nitro Cold Brew Can",
+        "type": "can",
+        "bbox": [
+          65,
+          177,
+          97,
+          257
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          97,
+          176,
+          137,
+          252
+        ]
+      },
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          134,
+          160,
+          170,
+          252
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          182,
+          148,
+          219,
+          242
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          209,
+          148,
+          256,
+          237
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 149,
+    "filename": "slot_0149_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0149_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          61,
+          182,
+          92,
+          261
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          106,
+          169,
+          139,
+          252
+        ]
+      },
+      {
+        "label": "Matcha Tea Bottle",
+        "type": "bottle",
+        "bbox": [
+          125,
+          159,
+          160,
+          247
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          168,
+          147,
+          205,
+          240
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          195,
+          147,
+          242,
+          236
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          224,
+          136,
+          273,
+          230
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 150,
+    "filename": "slot_0150_full.png",
+    "filepath": "C:\\Users\\HP\\Desktop\\gen ai\\vendi machine\\ml\\vision\\dataset\\images\\slot_0150_full.png",
+    "fill_level": "FULL",
+    "item_count_estimate": 6,
+    "bboxes": [
+      {
+        "label": "Detox Green Juice",
+        "type": "bottle",
+        "bbox": [
+          74,
+          180,
+          107,
+          262
+        ]
+      },
+      {
+        "label": "Dark Chocolate Bar",
+        "type": "box",
+        "bbox": [
+          92,
+          172,
+          132,
+          248
+        ]
+      },
+      {
+        "label": "Protein Crunch Bar",
+        "type": "box",
+        "bbox": [
+          127,
+          163,
+          170,
+          245
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          148,
+          150,
+          186,
+          245
+        ]
+      },
+      {
+        "label": "Electrolyte Drink",
+        "type": "bottle",
+        "bbox": [
+          193,
+          143,
+          231,
+          240
+        ]
+      },
+      {
+        "label": "Mango Kombucha",
+        "type": "bottle",
+        "bbox": [
+          218,
+          125,
+          260,
+          230
+        ]
+      }
+    ]
+  }
+]

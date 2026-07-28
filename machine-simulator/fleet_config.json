@@ -1,0 +1,35 @@
+{
+  "mqtt": {
+    "broker": "broker.emqx.io",
+    "port": 1883,
+    "topic_template": "machine/{id}/telemetry",
+    "keepalive": 60
+  },
+  "simulation": {
+    "min_interval_seconds": 1.0,
+    "max_interval_seconds": 2.5,
+    "auto_restock_on_empty": true
+  },
+  "machines": [
+    { "id": "VM-101", "name": "Downtown Tech Hub", "location": "450 Market St, Floor 1 Lobby", "zone": "Financial District" },
+    { "id": "VM-102", "name": "Airport Terminal 2", "location": "Gate B14 Concourse", "zone": "Transit Hub" },
+    { "id": "VM-103", "name": "Metro Central Station", "location": "Main Mezzanine Platform", "zone": "Transit Hub" },
+    { "id": "VM-104", "name": "City General Hospital", "location": "ER Entrance Waiting Area", "zone": "Healthcare" },
+    { "id": "VM-105", "name": "University Student Union", "location": "North Quad Hallway", "zone": "Education" },
+    { "id": "VM-106", "name": "Financial Center Tower", "location": "Floor 28 Break Room", "zone": "Financial District" },
+    { "id": "VM-107", "name": "Grand Luxury Hotel", "location": "2nd Floor Fitness Atrium", "zone": "Hospitality" },
+    { "id": "VM-108", "name": "Westside Shopping Mall", "location": "Food Court Level 1", "zone": "Retail" },
+    { "id": "VM-109", "name": "Northside Innovation Park", "location": "Building 4 Tech Corridor", "zone": "Tech Campus" },
+    { "id": "VM-110", "name": "Subway Junction East", "location": "Eastbound Line Platform", "zone": "Transit Hub" }
+  ],
+  "default_slots": [
+    { "slot_id": "A1", "product_id": "prod-1", "product_name": "Nitro Cold Brew", "price": 4.50, "stock": 10, "max_capacity": 15 },
+    { "slot_id": "A2", "product_id": "prod-2", "product_name": "Matcha Green Tea Latte", "price": 4.00, "stock": 12, "max_capacity": 15 },
+    { "slot_id": "A3", "product_id": "prod-3", "product_name": "Electrolyte Spark Hydration", "price": 3.25, "stock": 8, "max_capacity": 12 },
+    { "slot_id": "A4", "product_id": "prod-4", "product_name": "Dark Chocolate Almond Bar", "price": 2.75, "stock": 15, "max_capacity": 20 },
+    { "slot_id": "B1", "product_id": "prod-5", "product_name": "Dragonfruit Sparkling Water", "price": 2.50, "stock": 6, "max_capacity": 12 },
+    { "slot_id": "B2", "product_id": "prod-6", "product_name": "Organic Protein Crunch Bar", "price": 3.50, "stock": 9, "max_capacity": 15 },
+    { "slot_id": "B3", "product_id": "prod-7", "product_name": "Detox Green Juice", "price": 5.00, "stock": 7, "max_capacity": 10 },
+    { "slot_id": "B4", "product_id": "prod-8", "product_name": "Mango Passion Kombucha", "price": 4.25, "stock": 11, "max_capacity": 12 }
+  ]
+}
