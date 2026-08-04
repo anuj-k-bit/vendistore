@@ -77,6 +77,15 @@ app = FastAPI(
     lifespan=lifespan
 )
 
+@app.get("/")
+def root():
+    return {
+        "service": "IntelliVend Inventory Microservice",
+        "status": "ONLINE",
+        "health_check": "/health",
+        "docs_url": "/docs"
+    }
+
 @app.get("/health")
 def health_check():
     return {"status": "HEALTHY", "service": "inventory-service", "event_bus": "KAFKA"}

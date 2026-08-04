@@ -29,6 +29,15 @@ from fastapi import Request, Header
 STRIPE_SECRET_KEY = os.getenv("STRIPE_SECRET_KEY", "sk_test_51MockStripeSecretKeyForIntelliVendTestingKey123")
 STRIPE_WEBHOOK_SECRET = os.getenv("STRIPE_WEBHOOK_SECRET", "whsec_mockStripeWebhookSecret123")
 
+@app.get("/")
+def root():
+    return {
+        "service": "IntelliVend Order Microservice",
+        "status": "ONLINE",
+        "health_check": "/health",
+        "docs_url": "/docs"
+    }
+
 @app.get("/health")
 def health_check():
     return {"status": "HEALTHY", "service": "order-service"}

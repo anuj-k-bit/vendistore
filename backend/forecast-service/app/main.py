@@ -137,6 +137,15 @@ class BacktestMetricsResponse(BaseModel):
     rmse_improvement_pct: float
     model_type: str
 
+@app.get("/")
+def root():
+    return {
+        "service": "IntelliVend Demand Forecast Microservice",
+        "status": "ONLINE",
+        "health_check": "/health",
+        "docs_url": "/docs"
+    }
+
 @app.get("/health")
 def health_check():
     return {
