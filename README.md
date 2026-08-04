@@ -12,6 +12,17 @@
 
 ---
 
+## 🚀 Live Deployments
+
+| Component | Description | Live Deployment URL |
+| :--- | :--- | :--- |
+| 🎛️ **Admin Operations Dashboard** | Fleet GIS Map, Restock Priority, Agent Audit Feed & SHAP | [https://vendistore-admin.vercel.app](https://vendistore-admin.vercel.app) |
+| 🛒 **Customer Touch Kiosk UI** | Interactive Vending Kiosk with Stripe Checkout & AI Support Chat | [https://vendistore-kiosk.vercel.app](https://vendistore-kiosk.vercel.app) |
+| ⚙️ **Order & Payment API** | Order processing microservice with signed Stripe webhooks | [https://vendistore-1.onrender.com/docs](https://vendistore-1.onrender.com/docs) |
+| 📦 **Inventory Microservice** | PostgreSQL fleet inventory manager & Kafka consumer | [https://vendistore-inventory.onrender.com/docs](https://vendistore-inventory.onrender.com/docs) |
+
+---
+
 ## 🏛️ System Architecture
 
 ```mermaid
